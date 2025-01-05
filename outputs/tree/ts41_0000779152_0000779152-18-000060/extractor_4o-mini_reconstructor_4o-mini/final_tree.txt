@@ -1,0 +1,37 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **OVERVIEW**
+├── **RESULTS OF OPERATIONS**
+│   └── **FISCAL 2018 COMPARED TO FISCAL 2017**
+├── **REVENUE**
+│   ├── **Services and Support Revenue**
+│   └── **PROCESSING REVENUE**
+├── **OPERATING EXPENSES**
+│   └── **Cost of Revenue**
+├── **Research & Development**
+├── **Selling, General, and Administrative**
+├── **Gains on Disposal of Businesses**
+├── **INTEREST INCOME AND EXPENSE**
+│   └── **PROVISION FOR INCOME TAXES**
+├── **NET INCOME**
+│   └── **FISCAL 2017 COMPARED TO FISCAL 2016**
+├── **REVENUE**
+│   └── **PROCESSING**
+├── **OPERATING EXPENSES**
+│   └── **Cost of Revenue**
+├── **Research and Development**
+├── **Selling, General, and Administrative**
+├── **Gain on Disposal of Businesses**
+├── **NET INCOME**
+├── **REPORTABLE SEGMENT DISCUSSION**
+├── **Core**
+├── **LIQUIDITY AND CAPITAL RESOURCES**
+│   └── **CAPITAL REQUIREMENTS AND RESOURCES**
+├── **OFF BALANCE SHEET ARRANGEMENTS AND CONTRACTUAL OBLIGATIONS**
+├── **RECENT ACCOUNTING PRONOUNCEMENTS**
+├── **CRITICAL ACCOUNTING POLICIES**
+├── **Revenue Recognition**
+├── **DEFERRED COSTS**
+│   └── **DEPRECIATION AND AMORTIZATION EXPENSE**
+├── **CAPITALIZATION OF SOFTWARE DEVELOPMENT COSTS**
+│   └── **Estimates used to determine current and deferred income taxes**
+└── **Assumptions related to purchase accounting and goodwill**

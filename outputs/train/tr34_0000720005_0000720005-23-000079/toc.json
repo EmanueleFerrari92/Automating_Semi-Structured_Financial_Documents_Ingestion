@@ -1,0 +1,112 @@
+[
+    {
+        "text": "Item 1. Business",
+        "label": "item01",
+        "extracted_page_number": "3"
+    },
+    {
+        "text": "Item 1A. Risk factors",
+        "label": "item01a",
+        "extracted_page_number": "20"
+    },
+    {
+        "text": "Item 1B. Unresolved staff comments",
+        "label": "item01b",
+        "extracted_page_number": "35"
+    },
+    {
+        "text": "Item 2. Properties",
+        "label": "item02",
+        "extracted_page_number": "35"
+    },
+    {
+        "text": "Item 3. Legal proceedings",
+        "label": "item03",
+        "extracted_page_number": "36"
+    },
+    {
+        "text": "Item 4. Mine safety disclosures",
+        "label": "item04",
+        "extracted_page_number": "36"
+    },
+    {
+        "text": "Item 5. Market for registrant\u2019s common equity, related shareholder matters and issuer purchases of equity securities",
+        "label": "item05",
+        "extracted_page_number": "36"
+    },
+    {
+        "text": "Item 6. Reserved",
+        "label": "item06",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "Item 7. Management\u2019s discussion and analysis of financial condition and results of operations",
+        "label": "item07",
+        "extracted_page_number": "38"
+    },
+    {
+        "text": "Item 7A. Quantitative and qualitative disclosures about market risk",
+        "label": "item07a",
+        "extracted_page_number": "79"
+    },
+    {
+        "text": "Item 8. Financial statements and supplementary data",
+        "label": "item08",
+        "extracted_page_number": "80"
+    },
+    {
+        "text": "Item 9. Changes in and disagreements with accountants on accounting and financial disclosure",
+        "label": "item09",
+        "extracted_page_number": "164"
+    },
+    {
+        "text": "Item 9A. Controls and procedures",
+        "label": "item09a",
+        "extracted_page_number": "164"
+    },
+    {
+        "text": "Item 9B. Other information",
+        "label": "item09b",
+        "extracted_page_number": "166"
+    },
+    {
+        "text": "Item 9C. Disclosure regarding foreign jurisdictions that prevent inspections",
+        "label": "item09c",
+        "extracted_page_number": "166"
+    },
+    {
+        "text": "Item 10. Directors, executive officers and corporate governance",
+        "label": "item10",
+        "extracted_page_number": "166"
+    },
+    {
+        "text": "Item 11. Executive compensation",
+        "label": "item11",
+        "extracted_page_number": "166"
+    },
+    {
+        "text": "Item 12. Security ownership of certain beneficial owners and management and related shareholder matters",
+        "label": "item12",
+        "extracted_page_number": "166"
+    },
+    {
+        "text": "Item 13. Certain relationships and related transactions, and director independence",
+        "label": "item13",
+        "extracted_page_number": "166"
+    },
+    {
+        "text": "Item 14. Principal accountant fees and services",
+        "label": "item14",
+        "extracted_page_number": "166"
+    },
+    {
+        "text": "Item 15. Exhibits and financial statement schedules",
+        "label": "item15",
+        "extracted_page_number": "166"
+    },
+    {
+        "text": "Item 16. Form 10-K summary",
+        "label": "item16",
+        "extracted_page_number": "168"
+    }
+]

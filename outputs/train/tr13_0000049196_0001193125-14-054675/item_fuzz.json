@@ -1,0 +1,147 @@
+{
+    "missing": [],
+    "duplicates": [],
+    "misplaced": [],
+    "detected": [
+        {
+            "label": "item01",
+            "page": 5,
+            "id": 1840,
+            "text": "**Item 1: Business**",
+            "index": 1840
+        },
+        {
+            "label": "item01a",
+            "page": 14,
+            "id": 3260,
+            "text": "**Item 1A: Risk Factors**",
+            "index": 3260
+        },
+        {
+            "label": "item01b",
+            "page": 19,
+            "id": 4050,
+            "text": "**Item 1B: Unresolved Staff Comments**",
+            "index": 4050
+        },
+        {
+            "label": "item02",
+            "page": 19,
+            "id": 4070,
+            "text": "**Item 2: Properties**",
+            "index": 4070
+        },
+        {
+            "label": "item03",
+            "page": 19,
+            "id": 4120,
+            "text": "**Item 3: Legal Proceedings**",
+            "index": 4120
+        },
+        {
+            "label": "item04",
+            "page": 19,
+            "id": 4140,
+            "text": "**Item 4: Mine Safety Disclosures**",
+            "index": 4140
+        },
+        {
+            "label": "item05",
+            "page": 20,
+            "id": 4190,
+            "text": "**Item 5: Market for Registrant\u2019s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities**",
+            "index": 4190
+        },
+        {
+            "label": "item06",
+            "page": 22,
+            "id": 4370,
+            "text": "**Item 6: Selected Financial Data**",
+            "index": 4370
+        },
+        {
+            "label": "item07",
+            "page": 24,
+            "id": 4660,
+            "text": "**Item 7: Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations**",
+            "index": 4660
+        },
+        {
+            "label": "item07a",
+            "page": 88,
+            "id": 16770,
+            "text": "**Item 7A: Quantitative and Qualitative Disclosures About Market Risk**",
+            "index": 16770
+        },
+        {
+            "label": "item08",
+            "page": 88,
+            "id": 16790,
+            "text": "**Item 8: Financial Statements and Supplementary Data**",
+            "index": 16790
+        },
+        {
+            "label": "item09",
+            "page": 179,
+            "id": 33760,
+            "text": "**Item 9: Changes In and Disagreements With Accountants on Accounting and Financial Disclosure**",
+            "index": 33760
+        },
+        {
+            "label": "item09a",
+            "page": 179,
+            "id": 33780,
+            "text": "**Item 9A: Controls and Procedures**",
+            "index": 33780
+        },
+        {
+            "label": "item09b",
+            "page": 179,
+            "id": 33850,
+            "text": "**Item 9B: Other Information**",
+            "index": 33850
+        },
+        {
+            "label": "item10",
+            "page": 179,
+            "id": 33890,
+            "text": "**Item 10: Directors, Executive Officers and Corporate Governance**",
+            "index": 33890
+        },
+        {
+            "label": "item11",
+            "page": 179,
+            "id": 33910,
+            "text": "**Item 11: Executive Compensation**",
+            "index": 33910
+        },
+        {
+            "label": "item12",
+            "page": 179,
+            "id": 33930,
+            "text": "**Item 12: Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters**",
+            "index": 33930
+        },
+        {
+            "label": "item13",
+            "page": 180,
+            "id": 34070,
+            "text": "**Item 13: Certain Relationships and Related Transactions, and Director Independence**",
+            "index": 34070
+        },
+        {
+            "label": "item14",
+            "page": 180,
+            "id": 34090,
+            "text": "**Item 14: Principal Accountant Fees and Services**",
+            "index": 34090
+        },
+        {
+            "label": "item15",
+            "page": 181,
+            "id": 34140,
+            "text": "**Item 15: Exhibits and Financial Statement Schedules**",
+            "index": 34140
+        }
+    ]
+}

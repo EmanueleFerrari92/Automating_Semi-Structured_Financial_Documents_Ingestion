@@ -1,0 +1,42 @@
+**ITEM 1. BUSINESS**
+├── **Overview**
+│   ├── - **U.S. Information Solutions (USIS)**
+│   ├── - **International**
+│   ├── - **Workforce Solutions**
+│   ├── - **Global Consumer Solutions**
+│   └── **2017 Cybersecurity Incident**
+├── **Our Business Strategy**
+│   ├── **• Lead our industry in data security.**
+│   ├── **• Transform our technology.**
+│   ├── **• Lead in data and analytics, to develop unparalleled analytical insights leveraging Equifax’s unique data.**
+│   ├── **• Improve the consumer user experience.**
+│   ├── **• Foster a culture of customer centricity.**
+│   ├── **• Deliver growth while enhancing profitability and shareholder returns.**
+│   └── **• Build a world-class Equifax team by investing in talent to drive our strategy and promote a culture of innovation.**
+├── **Markets and Clients**
+├── **Products and Services**
+│   ├── **USIS**
+│   ├── **Online Information Solutions**
+│   ├── **Mortgage Solutions**
+│   ├── **Financial Marketing Services**
+│   ├── **International**
+│   │   ├── **Europe**
+│   │   ├── **Asia Pacific**
+│   │   ├── **Latin America**
+│   │   └── **Canada**
+│   ├── **Workforce Solutions**
+│   │   ├── **Verification Services**
+│   │   └── **Employer Services**
+│   │       └── **The Work Number®**
+│   └── **Global Consumer Solutions**
+│       └── **Free Consumer Services**
+├── **Seasonality**
+├── **Competition**
+├── **Technology and Intellectual Property**
+├── **Governmental Regulation**
+│   ├── **_Summary of U.S. Regulation Relating to Consumer and Data Protection_**
+│   ├── **_Summary of International Regulation Relating to Consumer and Data Protection_**
+│   └── **Tax Management Services**
+├── **Personnel**
+├── **Forward-Looking Statements**
+└── **Available Information**

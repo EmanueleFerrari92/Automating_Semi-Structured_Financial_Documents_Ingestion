@@ -1,0 +1,27 @@
+**ITEM 1. BUSINESS**
+├── **General Overview**
+│   ├── _Unconsolidated Joint Ventures_
+│   └── _Developments and Redevelopments_
+├── **Business Strategy**
+│   ├── _Internal Growth Strategies_
+│   ├── _Investment Strategies_
+│   └── _Financing Strategies_
+├── **Competition**
+├── **Healthcare Segments**
+│   ├── _Post-acute/skilled nursing_
+│   ├── _Life science_
+│   ├── _Medical office_
+│   └── _Hospital_
+├── **Sustainability**
+├── **Insurance**
+├── **Employees of HCP**
+├── **Government Regulation, Licensing and Enforcement**
+│   ├── _Overview_
+│   ├── _Fraud and Abuse Enforcement_
+│   ├── _Reimbursement_
+│   ├── _Healthcare Licensure and Certificate of Need_
+│   │   ├── _Life Science Facilities_
+│   │   └── _Senior Housing Entrance Fee Communities_
+│   ├── _Americans with Disabilities Act (the “ADA”)_
+│   └── _Environmental Matters_
+└── **Available Information**

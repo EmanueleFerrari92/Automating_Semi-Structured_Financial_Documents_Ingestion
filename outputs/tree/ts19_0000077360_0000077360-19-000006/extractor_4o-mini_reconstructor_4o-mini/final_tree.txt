@@ -1,0 +1,28 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **Forward-looking statements**
+│   ├── **Overview**
+│   └── **Key trends and uncertainties regarding our existing business**
+├── **CONSOLIDATED RESULTS OF OPERATIONS**
+│   └── **_Net sales_**
+├── **GROSS PROFIT**
+├── **SELLING, GENERAL AND ADMINISTRATIVE (“SG&A”)**
+│   ├── **_Net interest expense_**
+│   │   └── **_Loss on early extinguishment of debt_**
+│   └── **_Provision for income taxes_**
+├── **SEGMENT RESULTS OF OPERATIONS**
+├── **Filtration Solutions**
+│   └── **_Segment income_**
+├── **LIQUIDITY AND CAPITAL RESOURCES**
+│   ├── **_Operating activities_**
+│   ├── **_Investing activities_**
+│   └── **_Financing activities_**
+│       ├── **_Contractual obligations_**
+│       ├── _Other financial measures_
+│       │   └── _Off-balance sheet arrangements_
+│       ├── COMMITMENTS AND CONTINGENCIES
+│       │   └── _Product liability claims_
+│       └── **Stand-by letters of credit, bank guarantees and bonds**
+├── **NEW ACCOUNTING STANDARDS**
+└── **CRITICAL ACCOUNTING POLICIES**
+    └── **_Impairment of goodwill and indefinite-lived intangibles_**
+        └── **_Pension and other post-retirement plans_**

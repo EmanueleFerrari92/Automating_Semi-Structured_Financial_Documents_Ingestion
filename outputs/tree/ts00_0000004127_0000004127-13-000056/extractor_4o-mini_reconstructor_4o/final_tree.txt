@@ -1,0 +1,25 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **OVERVIEW**
+│   ├── **RESULTS OF OPERATIONS**
+│   ├── **NET REVENUE**
+│   └── **GROSS PROFIT**
+├── **RESEARCH AND DEVELOPMENT**
+├── **SELLING, GENERAL AND ADMINISTRATIVE**
+├── **AMORTIZATION OF INTANGIBLES**
+├── **RESTRUCTURING AND OTHER CHARGES**
+├── **PROVISION FOR INCOME TAXES**
+├── **LIQUIDITY AND CAPITAL RESOURCES**
+│   ├── **Cash Flow from Operating Activities**
+│   ├── **Cash Flow from Investing Activities**
+│   └── **Cash Flow from Financing Activities**
+├── **Liquidity**
+├── **OFF-BALANCE SHEET ARRANGEMENTS**
+├── **CONTRACTUAL CASH FLOWS**
+├── **CRITICAL ACCOUNTING ESTIMATES**
+├── **CRITICAL ACCOUNTING POLICIES**
+│   ├── _Revenue Recognition_
+│   └── _Inventory Valuation_
+│       ├── _Impairment of Long-Lived Assets_
+│       ├── _Business Combinations_
+│       └── _Share-Based Compensation_
+└── **OTHER MATTERS**

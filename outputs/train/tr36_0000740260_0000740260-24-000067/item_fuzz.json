@@ -1,0 +1,168 @@
+{
+    "missing": [],
+    "duplicates": [],
+    "misplaced": [],
+    "detected": [
+        {
+            "label": "item01",
+            "page": 6,
+            "id": 1130,
+            "text": "**ITEM 1. Business**",
+            "index": 1130
+        },
+        {
+            "label": "item01a",
+            "page": 20,
+            "id": 2910,
+            "text": "**ITEM 1A. Risk Factors**",
+            "index": 2910
+        },
+        {
+            "label": "item01b",
+            "page": 44,
+            "id": 5770,
+            "text": "**ITEM 1B. Unresolved Staff Comments**",
+            "index": 5770
+        },
+        {
+            "label": "item01c",
+            "page": 44,
+            "id": 5790,
+            "text": "**ITEM 1C. Cybersecurity**",
+            "index": 5790
+        },
+        {
+            "label": "item02",
+            "page": 45,
+            "id": 5980,
+            "text": "**ITEM 2. Properties**",
+            "index": 5980
+        },
+        {
+            "label": "item03",
+            "page": 47,
+            "id": 6150,
+            "text": "**ITEM 3. Legal Proceedings**",
+            "index": 6150
+        },
+        {
+            "label": "item04",
+            "page": 47,
+            "id": 6170,
+            "text": "**ITEM 4. Mine Safety Disclosures**",
+            "index": 6170
+        },
+        {
+            "label": "item05",
+            "page": 48,
+            "id": 6210,
+            "text": "**ITEM 5. Market for Registrant\u2019s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities**",
+            "index": 6210
+        },
+        {
+            "label": "item06",
+            "page": 49,
+            "id": 6420,
+            "text": "**ITEM 6. [Reserved]**",
+            "index": 6420
+        },
+        {
+            "label": "item07",
+            "page": 50,
+            "id": 6440,
+            "text": "**ITEM 7. Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations**",
+            "index": 6440
+        },
+        {
+            "label": "item07a",
+            "page": 78,
+            "id": 10540,
+            "text": "**ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk**",
+            "index": 10540
+        },
+        {
+            "label": "item08",
+            "page": 79,
+            "id": 10570,
+            "text": "**ITEM 8. Financial Statements and Supplementary Data**",
+            "index": 10570
+        },
+        {
+            "label": "item09",
+            "page": 136,
+            "id": 21050,
+            "text": "**ITEM 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure**",
+            "index": 21050
+        },
+        {
+            "label": "item09a",
+            "page": 136,
+            "id": 21070,
+            "text": "**ITEM 9A. Controls and Procedures**",
+            "index": 21070
+        },
+        {
+            "label": "item09b",
+            "page": 136,
+            "id": 21140,
+            "text": "**ITEM 9B. Other Information**",
+            "index": 21140
+        },
+        {
+            "label": "item09c",
+            "page": 136,
+            "id": 21160,
+            "text": "**ITEM 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections**",
+            "index": 21160
+        },
+        {
+            "label": "item10",
+            "page": 137,
+            "id": 21200,
+            "text": "**ITEM 10. Directors, Executive Officers and Corporate Governance**",
+            "index": 21200
+        },
+        {
+            "label": "item11",
+            "page": 137,
+            "id": 21220,
+            "text": "**ITEM 11. Executive Compensation**",
+            "index": 21220
+        },
+        {
+            "label": "item12",
+            "page": 137,
+            "id": 21240,
+            "text": "**ITEM 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters**",
+            "index": 21240
+        },
+        {
+            "label": "item13",
+            "page": 137,
+            "id": 21260,
+            "text": "**ITEM 13. Certain Relationships and Related Transactions, and Director Independence**",
+            "index": 21260
+        },
+        {
+            "label": "item14",
+            "page": 137,
+            "id": 21280,
+            "text": "**ITEM 14. Principal Accountant Fees and Services**",
+            "index": 21280
+        },
+        {
+            "label": "item15",
+            "page": 138,
+            "id": 21320,
+            "text": "**ITEM 15. Exhibits and Financial Statement Schedules**",
+            "index": 21320
+        },
+        {
+            "label": "item16",
+            "page": 145,
+            "id": 22980,
+            "text": "**ITEM 16. Form 10-K Summary**",
+            "index": 22980
+        }
+    ]
+}

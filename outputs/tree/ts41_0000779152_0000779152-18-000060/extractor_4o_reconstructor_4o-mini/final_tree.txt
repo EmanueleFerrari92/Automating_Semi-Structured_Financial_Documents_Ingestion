@@ -1,0 +1,35 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **OVERVIEW**
+│   ├── **RESULTS OF OPERATIONS**
+│   │   └── **FISCAL 2018 COMPARED TO FISCAL 2017**
+│   ├── **REVENUE**
+│   │   └── **PROCESSING REVENUE**
+│   ├── **OPERATING EXPENSES**
+│   ├── **COST OF REVENUE**
+│   ├── **RESEARCH & DEVELOPMENT**
+│   └── **SELLING, GENERAL, AND ADMINISTRATIVE**
+├── **Gains on Disposal of Businesses**
+├── **INTEREST INCOME AND EXPENSE**
+├── **PROVISION FOR INCOME TAXES**
+├── **NET INCOME**
+│   └── **FISCAL 2017 COMPARED TO FISCAL 2016**
+├── **OPERATING EXPENSES**
+├── **Cost of Revenue**
+├── **Research and Development**
+├── **Selling, General, and Administrative**
+├── **Gain on Disposal of Businesses**
+├── **INTEREST INCOME AND EXPENSE**
+├── **PROVISION FOR INCOME TAXES**
+├── **NET INCOME**
+├── **REPORTABLE SEGMENT DISCUSSION**
+├── **Core**
+├── **Payments**
+├── **Complementary**
+├── **Corporate and Other**
+├── **LIQUIDITY AND CAPITAL RESOURCES**
+├── **CAPITAL REQUIREMENTS AND RESOURCES**
+│   ├── **REVOLVING CREDIT FACILITY**
+│   └── **OFF BALANCE SHEET ARRANGEMENTS AND CONTRACTUAL OBLIGATIONS**
+├── **RECENT ACCOUNTING PRONOUNCEMENTS**
+└── **CRITICAL ACCOUNTING POLICIES**
+    └── **Revenue Recognition**

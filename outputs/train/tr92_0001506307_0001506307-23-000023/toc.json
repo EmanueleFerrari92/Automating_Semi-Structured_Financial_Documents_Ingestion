@@ -1,0 +1,322 @@
+[
+    {
+        "text": "Glossary",
+        "label": "subheading",
+        "extracted_page_number": "1"
+    },
+    {
+        "text": "Information Regarding Forward-Looking Statements",
+        "label": "subheading",
+        "extracted_page_number": "2"
+    },
+    {
+        "text": "Items 1. and 2. Business and Properties",
+        "label": "item01and02",
+        "extracted_page_number": "4"
+    },
+    {
+        "text": "General Development of Business",
+        "label": "subheading",
+        "extracted_page_number": "4"
+    },
+    {
+        "text": "Recent Developments",
+        "label": "subheading",
+        "extracted_page_number": "4"
+    },
+    {
+        "text": "Narrative Description of Business",
+        "label": "subheading",
+        "extracted_page_number": "5"
+    },
+    {
+        "text": "Business Strategy",
+        "label": "subheading",
+        "extracted_page_number": "5"
+    },
+    {
+        "text": "Business Segments",
+        "label": "subheading",
+        "extracted_page_number": "6"
+    },
+    {
+        "text": "Natural Gas Pipelines",
+        "label": "subheading",
+        "extracted_page_number": "6"
+    },
+    {
+        "text": "Products Pipelines",
+        "label": "subheading",
+        "extracted_page_number": "9"
+    },
+    {
+        "text": "Terminals",
+        "label": "subheading",
+        "extracted_page_number": "11"
+    },
+    {
+        "text": "CO2",
+        "label": "subheading",
+        "extracted_page_number": "13"
+    },
+    {
+        "text": "Major Customers",
+        "label": "subheading",
+        "extracted_page_number": "15"
+    },
+    {
+        "text": "Industry Regulation",
+        "label": "subheading",
+        "extracted_page_number": "16"
+    },
+    {
+        "text": "Environmental Matters",
+        "label": "subheading",
+        "extracted_page_number": "19"
+    },
+    {
+        "text": "Human Capital",
+        "label": "subheading",
+        "extracted_page_number": "21"
+    },
+    {
+        "text": "Properties and Rights-of-Way",
+        "label": "subheading",
+        "extracted_page_number": "22"
+    },
+    {
+        "text": "Financial Information about Geographic Areas",
+        "label": "subheading",
+        "extracted_page_number": "22"
+    },
+    {
+        "text": "Available Information",
+        "label": "subheading",
+        "extracted_page_number": "22"
+    },
+    {
+        "text": "Item 1A. Risk Factors",
+        "label": "item01a",
+        "extracted_page_number": "23"
+    },
+    {
+        "text": "Item 1B. Unresolved Staff Comments",
+        "label": "item01b",
+        "extracted_page_number": "35"
+    },
+    {
+        "text": "Item 3. Legal Proceedings",
+        "label": "item03",
+        "extracted_page_number": "35"
+    },
+    {
+        "text": "Item 4. Mine Safety Disclosures",
+        "label": "item04",
+        "extracted_page_number": "35"
+    },
+    {
+        "text": "Item 5. Market for Registrant\u2019s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+        "label": "item05",
+        "extracted_page_number": "36"
+    },
+    {
+        "text": "Item 6. [Reserved]",
+        "label": "item06",
+        "extracted_page_number": "36"
+    },
+    {
+        "text": "Item 7. Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations",
+        "label": "item07",
+        "extracted_page_number": "36"
+    },
+    {
+        "text": "General",
+        "label": "subheading",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "Critical Accounting Estimates",
+        "label": "subheading",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "Results of Operations",
+        "label": "subheading",
+        "extracted_page_number": "39"
+    },
+    {
+        "text": "Overview",
+        "label": "subheading",
+        "extracted_page_number": "39"
+    },
+    {
+        "text": "Consolidated Earnings Results (GAAP)",
+        "label": "subheading",
+        "extracted_page_number": "42"
+    },
+    {
+        "text": "Non-GAAP Financial Measures",
+        "label": "subheading",
+        "extracted_page_number": "44"
+    },
+    {
+        "text": "Segment Earnings Results",
+        "label": "subheading",
+        "extracted_page_number": "47"
+    },
+    {
+        "text": "DD&A, General and Administrative and Corporate Charges, Interest, net and Noncontrolling Interests",
+        "label": "subheading",
+        "extracted_page_number": "56"
+    },
+    {
+        "text": "Income Taxes",
+        "label": "subheading",
+        "extracted_page_number": "57"
+    },
+    {
+        "text": "Liquidity and Capital Resources",
+        "label": "subheading",
+        "extracted_page_number": "57"
+    },
+    {
+        "text": "General",
+        "label": "subheading",
+        "extracted_page_number": "57"
+    },
+    {
+        "text": "Short-term Liquidity",
+        "label": "subheading",
+        "extracted_page_number": "58"
+    },
+    {
+        "text": "Long-term Financing",
+        "label": "subheading",
+        "extracted_page_number": "59"
+    },
+    {
+        "text": "Counterparty Creditworthiness",
+        "label": "subheading",
+        "extracted_page_number": "59"
+    },
+    {
+        "text": "Capital Expenditures",
+        "label": "subheading",
+        "extracted_page_number": "59"
+    },
+    {
+        "text": "Off Balance Sheet Arrangements",
+        "label": "subheading",
+        "extracted_page_number": "60"
+    },
+    {
+        "text": "Contractual Obligations and Commercial Commitments",
+        "label": "subheading",
+        "extracted_page_number": "61"
+    },
+    {
+        "text": "Cash Flows",
+        "label": "subheading",
+        "extracted_page_number": "62"
+    },
+    {
+        "text": "Dividends and Stock Buy-back Program",
+        "label": "subheading",
+        "extracted_page_number": "63"
+    },
+    {
+        "text": "Summarized Combined Financial Information for Guarantee of Securities of Subsidiaries",
+        "label": "subheading",
+        "extracted_page_number": "64"
+    },
+    {
+        "text": "Recent Accounting Pronouncements",
+        "label": "subheading",
+        "extracted_page_number": "65"
+    },
+    {
+        "text": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+        "label": "item07a",
+        "extracted_page_number": "65"
+    },
+    {
+        "text": "Energy Commodity Market Risk",
+        "label": "subheading",
+        "extracted_page_number": "65"
+    },
+    {
+        "text": "Interest Rate Risk",
+        "label": "subheading",
+        "extracted_page_number": "66"
+    },
+    {
+        "text": "Foreign Currency Risk",
+        "label": "subheading",
+        "extracted_page_number": "67"
+    },
+    {
+        "text": "Item 8. Financial Statements and Supplementary Data",
+        "label": "item08",
+        "extracted_page_number": "68"
+    },
+    {
+        "text": "Index to Financial Statements",
+        "label": "subheading",
+        "extracted_page_number": "68"
+    },
+    {
+        "text": "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+        "label": "item09",
+        "extracted_page_number": "129"
+    },
+    {
+        "text": "Item 9A. Controls and Procedures",
+        "label": "item09a",
+        "extracted_page_number": "129"
+    },
+    {
+        "text": "Item 9B. Other Information",
+        "label": "item09b",
+        "extracted_page_number": "130"
+    },
+    {
+        "text": "Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections",
+        "label": "item09c",
+        "extracted_page_number": "130"
+    },
+    {
+        "text": "Item 10. Directors, Executive Officers and Corporate Governance",
+        "label": "item10",
+        "extracted_page_number": "130"
+    },
+    {
+        "text": "Item 11. Executive Compensation",
+        "label": "item11",
+        "extracted_page_number": "130"
+    },
+    {
+        "text": "Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+        "label": "item12",
+        "extracted_page_number": "130"
+    },
+    {
+        "text": "Item 13. Certain Relationships and Related Transactions, and Director Independence",
+        "label": "item13",
+        "extracted_page_number": "130"
+    },
+    {
+        "text": "Item 14. Principal Accounting Fees and Services",
+        "label": "item14",
+        "extracted_page_number": "130"
+    },
+    {
+        "text": "Item 15. Exhibits, Financial Statement Schedules",
+        "label": "item15",
+        "extracted_page_number": "131"
+    },
+    {
+        "text": "Item 16. Form 10-K Summary",
+        "label": "item16",
+        "extracted_page_number": "134"
+    }
+]

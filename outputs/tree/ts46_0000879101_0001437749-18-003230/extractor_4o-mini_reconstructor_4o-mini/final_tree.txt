@@ -1,0 +1,19 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **Critical Accounting Policies**
+├── **Revenue Recognition and Accounts Receivable**
+├── **Real Estate**
+├── **Executive Overview**
+│   ├── **Results of Operations**
+│   │   ├── **Comparison of Years Ended December 31, 2017 to 2016**
+│   │   └── **Comparison of Years Ended December 31, 2016 to 2015**
+│   └── **Liquidity and Capital Resources**
+├── **Improvements to Operating Real Estate**
+│   └── **Improvements to Real Estate Under Development**
+├── **Financing Activities**
+│   └── **Dividends**
+├── **Hurricane Impact**
+├── **Income Taxes**
+├── **Contractual Obligations and Other Commitments**
+├── **Off-Balance Sheet Arrangements**
+├── **Unconsolidated Real Estate Joint Ventures**
+└── **Other Real Estate Investments**

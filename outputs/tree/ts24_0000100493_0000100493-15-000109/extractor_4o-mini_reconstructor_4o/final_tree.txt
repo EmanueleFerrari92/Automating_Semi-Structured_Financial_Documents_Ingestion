@@ -1,0 +1,28 @@
+**ITEM 1A. RISK FACTORS**
+├── **Fluctuations in commodity prices and in the availability of raw materials**
+├── **The prices we receive for our products may fluctuate due to competition from other food producers and processors**
+├── **Outbreaks of livestock diseases can adversely impact our ability to conduct our operations and demand for our products**
+├── **We are subject to risks associated with our international activities**
+├── **We depend on the availability of, and good relations with, our employees**
+│   └── **We depend on contract growers and independent producers to supply us with livestock**
+├── **If our products become contaminated, we may be subject to product liability claims and product recalls**
+├── **Changes in consumer preference and failure to maintain favorable consumer perception of our brands and products**
+├── **Failure to continually innovate and successfully launch new products and maintain our brand image through marketing investment**
+│   └── **Failure to leverage our brand value propositions to compete against private label products, especially during economic downturn**
+├── **Indebtedness**
+├── **Impairment of Goodwill and Indefinite Life Intangible Assets**
+├── **Government Regulations**
+│   └── **Legal claims, other regulatory enforcement actions, or failure to comply with applicable legal standards or requirements**
+│       └── **The Company is subject to stringent environmental regulation and potentially subject to environmental litigation, proceedings, and investigations**
+├── **Failures or security breaches of our information technology systems could disrupt our operations and negatively impact our business**
+├── **If we pursue strategic acquisitions or divestitures, we may not be able to successfully consummate favorable transactions or successfully integrate acquired businesses**
+├── **Market fluctuations could negatively impact our operating results**
+├── **Deterioration of economic conditions could negatively impact our business**
+├── **The loss of one or more of our largest customers could negatively impact our business**
+├── **Extreme factors or forces beyond our control could negatively impact our business**
+├── **Failure to maximize or to successfully assert our intellectual property rights could impact our competitiveness**
+│   └── **Tyson Limited Partnership can exercise significant control**
+├── **We may incur additional tax expense or become subject to additional tax liabilities**
+│   └── **We could incur substantial tax liabilities as a result of the DEMB Master Blenders 1753 N.V (“DEMB”) Spin-Off**
+└── **Participation in a Multiemployer Pension Plan could adversely affect our business**
+    └── **Volatility in the capital markets or interest rates could adversely impact our pension costs and the funded status of our pension plans**

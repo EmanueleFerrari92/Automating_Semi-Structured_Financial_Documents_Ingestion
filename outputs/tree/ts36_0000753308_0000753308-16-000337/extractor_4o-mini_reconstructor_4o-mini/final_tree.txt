@@ -1,0 +1,4 @@
+**ITEM 2. PROPERTIES**
+├── **Generation Facilities**
+├── **Transmission and Distribution**
+└── **Character of Ownership**

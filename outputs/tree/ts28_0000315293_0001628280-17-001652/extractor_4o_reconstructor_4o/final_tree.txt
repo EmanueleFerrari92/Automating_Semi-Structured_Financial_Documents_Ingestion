@@ -1,0 +1,24 @@
+**ITEM 1A. RISK FACTORS**
+├── **Risks Relating to the Company Generally**
+├── **Competitive Risks**
+├── **_Financial Risks_**
+│   ├── _The benefits of our Redomestication may not be realized or may be offset in whole or in part by factors that we do not control._
+│   ├── _Our global effective tax rate is subject to a variety of different factors, which could create volatility in that tax rate, expose us to greater than anticipated tax liabilities or cause us to adjust previously recognized tax assets and liabilities._
+│   ├── _Changes in our accounting estimates and assumptions could negatively affect our financial position and results of operations._
+│   ├── _We may be required to record goodwill or other long-lived asset impairment charges, which could result in a significant charge to earnings._
+│   └── _We are a holding company and, therefore, may not be able to receive dividends or other payments in needed amounts from our subsidiaries._
+├── **_Legal and Regulatory Risks_**
+│   ├── _We are subject to E&O claims against us as well as other contingencies and legal proceedings, some of which, if determined unfavorably to us, could have a material adverse effect on the..._
+│   ├── _Our businesses are subject to extensive governmental regulation, which could reduce our profitability, limit our growth, or increase competition._
+│   ├── _Failure to protect our intellectual property rights, or allegations that we have infringed on the intellectual property rights of others, could harm our reputation, ability to compete effectively..._
+│   ├── _We have less flexibility as a public limited company incorporated under the laws of England and Wales with respect to certain aspects of capital management._
+│   └── _The enforcement of civil liabilities against us may be more difficult._
+├── **_Operational and Commercial Risks_**
+│   ├── _We rely on third parties to perform key functions of our business operations and to provide services to our clients. These third parties may act in ways that could harm our business._
+│   ├── _Our business is exposed to risks associated with the handling of client funds._
+│   └── _In connection with the implementation of our corporate strategies, we face risks associated with the acquisition or disposition of businesses, the entry into new lines of business, the integration of acquired businesses and the growth and development of these businesses._
+├── **_Risks Relating Primarily to Our Risk Solutions Segment_**
+├── **_Risks Relating Primarily to Our HR Solutions Segment_**
+│   ├── _The profitability of our outsourcing and consulting engagements with clients may not meet our expectations due to unexpected costs, cost overruns, early contract terminations, unrealized assumptions used in our contract bidding process or the inability to maintain our prices._
+│   └── _We might not be able to achieve the cost savings required to sustain and increase our profit margins in our HR Solutions business._
+└── **_Risks Related to Our Ordinary Shares_**

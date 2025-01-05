@@ -1,0 +1,26 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **OVERVIEW**
+├── **RESULTS OF OPERATIONS**
+│   └── **FISCAL YEARS ENDED SEPTEMBER 27, 2013, SEPTEMBER 28, 2012, AND SEPTEMBER 30, 2011.**
+├── **GENERAL**
+├── **NET REVENUE**
+├── **GROSS PROFIT**
+├── **RESEARCH AND DEVELOPMENT**
+├── **SELLING, GENERAL AND ADMINISTRATIVE**
+├── **AMORTIZATION OF INTANGIBLES**
+├── **RESTRUCTURING AND OTHER CHARGES**
+├── **PROVISION FOR INCOME TAXES**
+├── **LIQUIDITY AND CAPITAL RESOURCES**
+│   ├── **_Cash Flow from Operating Activities:_**
+│   ├── **_Cash Flow from Investing Activities:_**
+│   ├── **_Cash Flow from Financing Activities:_**
+│   └── **_Liquidity:_**
+├── **OFF-BALANCE SHEET ARRANGEMENTS**
+├── **CONTRACTUAL CASH FLOWS**
+├── **CRITICAL ACCOUNTING ESTIMATES**
+│   ├── _Revenue Recognition._
+│   ├── _Inventory Valuation._
+│   ├── _Impairment of Long-Lived Assets._
+│   ├── _Business Combinations._
+│   └── _Share-Based Compensation._
+└── **OTHER MATTERS**

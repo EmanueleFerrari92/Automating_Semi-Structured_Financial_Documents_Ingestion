@@ -1,0 +1,41 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **_Forward-looking statements_**
+├── **_Overview_**
+├── **_Key trends and uncertainties regarding our existing business_**
+├── **_CONSOLIDATED RESULTS OF OPERATIONS_**
+│   ├── **_Net sales_**
+│   ├── **_Gross profit_**
+│   ├── **_Selling, general and administrative (“SG&A”)_**
+│   ├── **_Net interest expense_**
+│   ├── **_Loss on early extinguishment of debt_**
+│   └── **_Provision for income taxes_**
+├── **SEGMENT RESULTS OF OPERATIONS**
+│   ├── **_Aquatic Systems_**
+│   ├── **_Net sales_**
+│   ├── **_Segment income_**
+│   ├── **_Filtration Solutions_**
+│   ├── **_Net sales_**
+│   ├── **_Segment income_**
+│   └── **_Flow Technologies_**
+├── **LIQUIDITY AND CAPITAL RESOURCES**
+│   ├── **_Operating activities_**
+│   ├── **_Investing activities_**
+│   ├── **_Financing activities_**
+│   ├── **_Authorized shares_**
+│   ├── **_Share repurchases_**
+│   ├── **_Dividends_**
+│   ├── **_Contractual obligations_**
+│   ├── **_Other financial measures_**
+│   └── **_Off-balance sheet arrangements_**
+├── **COMMITMENTS AND CONTINGENCIES**
+│   ├── **_Product liability claims_**
+│   └── **_Stand-by letters of credit, bank guarantees and bonds_**
+├── **NEW ACCOUNTING STANDARDS**
+└── **CRITICAL ACCOUNTING POLICIES**
+    ├── **_Impairment of goodwill and indefinite-lived intangibles_**
+    ├── _Identifiable intangible assets_
+    ├── **_Pension and other post-retirement plans_**
+    │   ├── _Discount rates_
+    │   └── _Expected rate of return_
+    ├── **_Loss contingencies_**
+    └── **_Income taxes_**

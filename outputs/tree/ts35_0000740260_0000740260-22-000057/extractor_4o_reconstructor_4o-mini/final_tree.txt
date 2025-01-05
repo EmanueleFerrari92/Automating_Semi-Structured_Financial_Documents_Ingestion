@@ -1,0 +1,40 @@
+**ITEM 1. BUSINESS**
+├── **Overview**
+├── **Business Strategy**
+│   ├── **Generating Reliable and Growing Cash Flows**
+│   ├── **Maintaining a Balanced, Diversified Portfolio of High-Quality Assets**
+│   └── **Preserving Our Financial Strength, Flexibility and Liquidity**
+├── **Senior Housing Communities**
+├── **Medical Office Buildings**
+├── **Life Science, Research and Innovation Centers**
+├── **Inpatient Rehabilitation and Long-Term Acute Care Facilities**
+├── **Health Systems**
+│   ├── **Skilled Nursing Facilities**
+│   └── **Geographic Diversification of Properties**
+├── **Loans and Investments**
+├── **Development and Redevelopment Projects**
+├── **Triple-Net Leased Properties**
+│   └── **Senior Living Operations**
+├── **Office Operations**
+│   └── **Senior Living Operations**
+├── **Competition**
+├── **Human Capital Management**
+│   ├── **Talent Attraction and Retention**
+│   ├── **DE&I**
+│   ├── **Health & Safety**
+│   └── **Environmental, Social, and Governance**
+├── **Insurance**
+├── **Additional Information**
+├── **GOVERNMENT REGULATION**
+│   ├── **Governmental Response to the COVID-19 Pandemic**
+│   └── **United States Healthcare Regulation, Licensing and Enforcement**
+├── **Overview**
+├── **Licensure, Certification and CONs**
+├── **Fraud and Abuse Enforcement**
+├── **Reimbursement**
+│   └── **Data Privacy and Security**
+├── **International Healthcare Regulation**
+│   └── **Regulation Impacting Life Science, Research and Innovation Centers**
+├── **Tax Regulation**
+└── **GOVERNMENT REGULATION**
+    └── **Environmental Regulation**

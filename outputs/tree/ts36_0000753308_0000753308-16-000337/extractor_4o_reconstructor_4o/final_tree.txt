@@ -1,0 +1,6 @@
+**ITEM 2. PROPERTIES**
+├── **Generation Facilities**
+├── **FPL**
+├── **NEER**
+├── **Transmission and Distribution**
+└── **Character of Ownership**

@@ -1,0 +1,42 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **CRITICAL ACCOUNTING ESTIMATES AND POLICIES**
+│   ├── **Revenue Recognition.**
+│   ├── **Inventories.**
+│   ├── **Allowance for Doubtful Accounts.**
+│   ├── **Accounting for Stock-Based Compensation Plans.**
+│   ├── **Contingencies and Litigation.**
+│   ├── **Goodwill and Intangible Assets.**
+│   ├── **Income Taxes.**
+│   ├── **Valuation of Marketable Securities.**
+│   └── **Recent Accounting Pronouncements**
+├── **EXECUTIVE SUMMARY**
+├── **Proposed Merger with Orbotech, Ltd.**
+├── **Revenues and Gross Margin**
+│   ├── **Product revenues**
+│   ├── **Service revenues**
+│   ├── **Revenues - Top Customers**
+│   ├── **Revenues by region**
+│   └── **Gross margin**
+├── **Research and Development (“R&D”)**
+├── **Selling, General and Administrative (“SG&A”)**
+├── **Restructuring Charges**
+├── **Interest Expense and Other Expense (Income), Net**
+├── **Provision for Income Taxes**
+├── **Liquidity and Capital Resources**
+│   ├── _Cash and Cash Equivalents and Marketable Securities:_
+│   ├── _Cash Dividends and Special Cash Dividend:_
+│   └── _Stock Repurchases:_
+├── **_Fiscal Year 2018 Compared to Fiscal Year 2017_**
+│   ├── _Cash Flows from Operating Activities:_
+│   ├── _Cash Flows from Investing Activities:_
+│   └── _Cash Flows from Financing Activities:_
+├── **_Fiscal Year 2017 Compared to Fiscal Year 2016_**
+│   ├── _Cash Flows from Operating Activities:_
+│   ├── _Cash Flows from Investing Activities:_
+│   ├── _Cash Flows from Financing Activities:_
+│   ├── _Senior Notes:_
+│   └── _Credit Facility (Term Loans and Unfunded Revolving Credit Facility) and Revolving Credit Facility:_
+├── **Contractual Obligations**
+│   └── _Working Capital:_
+├── **Off-Balance Sheet Arrangements**
+└── **Indemnification Obligations**

@@ -1,0 +1,9 @@
+**ITEM 1A. RISK FACTORS**
+├── **_RISKS RELATING TO THE COMPANY GENERALLY_**
+└── **_COMPETITIVE RISKS_**
+    ├── **_Financial Risks_**
+    ├── **_Legal and Regulatory Risks_**
+    ├── **_Operational and Commercial Risks_**
+    └── **_RISKS RELATING PRIMARILY TO OUR RISK SOLUTIONS SEGMENT_**
+        ├── **_RISKS RELATING PRIMARILY TO OUR HR SOLUTIONS SEGMENT_**
+        └── **_Risks Related to Our Ordinary Shares_**

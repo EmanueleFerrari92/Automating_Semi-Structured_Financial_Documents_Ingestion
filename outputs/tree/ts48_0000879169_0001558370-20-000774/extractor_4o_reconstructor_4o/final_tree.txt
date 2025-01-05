@@ -1,0 +1,37 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **Overview**
+├── **License Agreements and Business Relationships**
+│   ├── _Novartis_
+│   ├── _Lilly_
+│   ├── _Agenus_
+│   ├── _Takeda (ARIAD)_
+│   ├── _Merus_
+│   ├── _Calithera_
+│   ├── _MacroGenics_
+│   ├── _Syros_
+│   ├── _Innovent_
+│   ├── _Zai Lab_
+│   └── _MorphoSys_
+├── **Critical Accounting Policies and Significant Estimates**
+│   ├── _Revenue Recognition_
+│   ├── _Product Revenues_
+│   ├── _Customer Credits_
+│   ├── _Product Royalty Revenues_
+│   ├── _Milestone and Contract Revenues_
+│   ├── _Stock Compensation_
+│   ├── _Income Taxes_
+│   └── _Acquisition-related contingent consideration_
+├── **Results of Operations**
+│   ├── **_Years Ended December 31, 2019 and 2018_**
+│   ├── **_Revenues_**
+│   ├── **_Cost of Product Revenues_**
+│   ├── **_Operating Expenses_**
+│   │   ├── _Research and development expenses_
+│   │   └── _Selling, general and administrative expenses_
+│   └── **_Other income (expense)_**
+├── **Liquidity and Capital Resources**
+│   └── _Sources and Uses of Cash._
+│       ├── _Cash provided by operating activities._
+│       ├── _Cash used in investing activities._
+│       └── _Cash provided by financing activities._
+└── **Off-Balance Sheet Arrangements**

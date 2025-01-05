@@ -1,0 +1,27 @@
+**ITEM 1A. RISK FACTORS**
+├── **Regulatory, Legislative and Legal Risks**
+│   ├── **The rates of the Companies’ principal electric transmission, distribution and generation operations and gas distribution operations are subject to regulatory review. Revenue**
+│   └── **The Companies’ generation business may be negatively affected by possible FERC actions that could change market design in the wholesale markets or affect pricing rules or**
+├── **Environmental Risks**
+│   ├── **The Companies’ operations and construction activities are subject to a number of environmental laws and regulations which impose significant compliance costs on the Companies.**
+│   └── **The Companies are subject to risks associated with the disposal and storage of coal ash.**
+├── **Construction Risks**
+│   └── **The development, construction and commissioning of several large-scale infrastructure projects simultaneously involves significant execution risk.**
+├── **Operational Risks**
+│   ├── **The Companies’ financial performance and condition can be affected by changes in the weather, including the effects of global climate change.**
+│   ├── **The Companies’ operations are subject to operational hazards, equipment failures, supply chain disruptions and personnel issues which could negatively affect the Companies.**
+│   ├── **The Companies’ financial results can be adversely affected by various factors driving supply and demand for electricity and gas and related services.**
+│   ├── **The Companies may be materially adversely affected by negative publicity.**
+│   ├── **Dominion Energy’s nonregulated generation business operates in a challenging market, which could adversely affect its results of operations and future growth.**
+│   ├── **Dominion Energy conducts certain operations through partnership arrangements involving third-party investors which may limit Dominion Energy’s operational flexibility or**
+│   ├── **Hostile cyber intrusions could severely impair the Companies’ operations, lead to the disclosure of confidential information, damage the reputation of the Companies and otherwise**
+│   ├── **War, acts and threats of terrorism, intentional acts and other significant events could adversely affect the Companies’ operations.**
+│   └── **Failure to attract and retain key executive officers and an appropriately qualified workforce could have an adverse effect on the Companies’ operations.**
+├── **Nuclear Generation Risks**
+└── **Financial, Economic and Market Risks**
+    ├── **Changing rating agency requirements could negatively affect the Companies’ growth and business strategy.**
+    ├── **An inability to access financial markets and, in the case of Dominion Energy, obtain cash from subsidiaries could adversely affect the execution of the Companies’ business plans.**
+    ├── **Market performance, interest rates and other changes may decrease the value of the Companies’ decommissioning trust funds and Dominion Energy’s benefit plan assets or increase Dominion Energy’s liabilities, which could then require significant additional funding.**
+    ├── **Future impairments of goodwill or other intangible assets or long-lived assets may have a material adverse effect on the Companies’ results.**
+    ├── **Exposure to counterparty performance may adversely affect the Companies’ financial results of operations.**
+    └── **Public health crises and epidemics or pandemics, such as COVID-19, could adversely affect the Companies’ business, results of operations, financial condition, liquidity and/or cash flows.**

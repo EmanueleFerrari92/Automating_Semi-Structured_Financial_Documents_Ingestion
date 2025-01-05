@@ -1,0 +1,132 @@
+[
+    {
+        "text": "Forward-Looking Statements",
+        "label": "subheading",
+        "extracted_page_number": "3"
+    },
+    {
+        "text": "About McDonald's",
+        "label": "subheading",
+        "extracted_page_number": "3"
+    },
+    {
+        "text": "Business Summary",
+        "label": "subheading",
+        "extracted_page_number": "3"
+    },
+    {
+        "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations",
+        "label": "item07",
+        "extracted_page_number": "8"
+    },
+    {
+        "text": "Management's View of the Business",
+        "label": "subheading",
+        "extracted_page_number": "8"
+    },
+    {
+        "text": "Financial Performance",
+        "label": "subheading",
+        "extracted_page_number": "8"
+    },
+    {
+        "text": "Strategic Direction",
+        "label": "subheading",
+        "extracted_page_number": "9"
+    },
+    {
+        "text": "Outlook",
+        "label": "subheading",
+        "extracted_page_number": "10"
+    },
+    {
+        "text": "Consolidated Operating Results",
+        "label": "subheading",
+        "extracted_page_number": "11"
+    },
+    {
+        "text": "Cash Flows",
+        "label": "subheading",
+        "extracted_page_number": "19"
+    },
+    {
+        "text": "Financial Position and Capital Resources",
+        "label": "subheading",
+        "extracted_page_number": "22"
+    },
+    {
+        "text": "Other Matters",
+        "label": "subheading",
+        "extracted_page_number": "24"
+    },
+    {
+        "text": "Other Key Information",
+        "label": "item09b",
+        "extracted_page_number": "25"
+    },
+    {
+        "text": "Five-Year Summary",
+        "label": "subheading",
+        "extracted_page_number": "25"
+    },
+    {
+        "text": "Market for Registrant's Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities",
+        "label": "item05",
+        "extracted_page_number": "27"
+    },
+    {
+        "text": "Risk Factors",
+        "label": "item01a",
+        "extracted_page_number": "28"
+    },
+    {
+        "text": "Legal Proceedings",
+        "label": "item03",
+        "extracted_page_number": "34"
+    },
+    {
+        "text": "Properties",
+        "label": "item02",
+        "extracted_page_number": "35"
+    },
+    {
+        "text": "Information About Our Executive Officers",
+        "label": "subheading",
+        "extracted_page_number": "36"
+    },
+    {
+        "text": "Availability of Company Information",
+        "label": "subheading",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "Financial Statements and Supplementary Data",
+        "label": "item08",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "Controls and Procedures",
+        "label": "item09a",
+        "extracted_page_number": "64"
+    },
+    {
+        "text": "Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters",
+        "label": "item12",
+        "extracted_page_number": "64"
+    },
+    {
+        "text": "Exhibits and Financial Statement Schedules",
+        "label": "item15",
+        "extracted_page_number": "65"
+    },
+    {
+        "text": "Form 10-K Cross-Reference Index",
+        "label": "subheading",
+        "extracted_page_number": "68"
+    },
+    {
+        "text": "Signatures",
+        "label": "subheading",
+        "extracted_page_number": "69"
+    }
+]

@@ -1,0 +1,26 @@
+**ITEM 1A. RISK FACTORS**
+├── **The Company is subject to risks related to its international operations.**
+├── **The Company faces intense competition in its markets, which could lead to reduced net sales, profitability and cash flow.**
+├── **Unfavorable worldwide, regional and local economic conditions and financial market volatility may negatively impact the Company and consumers of its products, which would**
+├── **Volatility and increases in the costs of raw materials, energy, transportation, labor and other necessary supplies or services could harm the Company’s profits and cash flow.**
+├── **Sales growth objectives may be difficult to achieve, and price increases, market and category declines and changes to the Company’s product and geographic mix may adversely impact the Company’s financial results.**
+├── **Dependence on key customers could adversely affect the Company’s business, financial condition and results of operations.**
+├── **Government regulations could impose material costs.**
+├── **Reliance on a limited base of suppliers may result in disruptions to the Company’s business.**
+├── **Profitability and cash flow could suffer if the Company is unable to successfully implement its strategies, generate anticipated cost savings and efficiencies or efficiently manage supply chain and manufacturing processes.**
+├── **Product liability, commercial claims or other legal proceedings could adversely affect the Company’s sales and operating results, including cash flow.**
+├── **The Company may not successfully develop and introduce new products and line extensions or successfully expand into adjacent categories and countries, which could adversely impact its financial results.**
+├── **Acquisitions, new venture investments and divestitures may not be successful, which could impact the Company’s results.**
+├── **Cyber attacks, privacy breaches or a failure of key information technology systems could adversely impact the Company’s ability to conduct business.**
+├── **Loss of, or inability to attract, key personnel could adversely impact the Company’s business.**
+├── **Harm to the Company’s reputation or the reputation of one or more of its leading brands could have an adverse effect on the business.**
+├── **Environmental matters create potential liabilities.**
+├── **The facilities of the Company and its suppliers are subject to disruption by events beyond the Company’s control.**
+├── **Failure to maximize, successfully assert or successfully defend the Company’s intellectual property rights could impact its competitiveness.**
+├── **If the Company is found to have infringed the intellectual property rights of others or cannot obtain necessary intellectual property rights from others, its competitiveness could be negatively impacted.**
+├── **The Company’s substantial indebtedness could adversely affect its operations and financial results and prevent the Company from fulfilling its obligations, and the Company may incur substantially more debt in the future, which could exacerbate these risks.**
+├── **The Company’s continued growth and expansion and reliance on third-party service providers could adversely affect its internal control over financial reporting, which could harm its business and financial results.**
+├── **The Company’s judgments regarding the accounting for tax positions and the resolution of tax disputes may impact the Company’s earnings and cash flow.**
+├── **The estimates and assumptions on which the Company’s financial statement projections are based may prove to be inaccurate, which may cause its actual results to materially differ from such projections, which may adversely affect the Company’s future cash flows and stock price.**
+├── **The Company may not continue to pay dividends or repurchase its stock.**
+└── **The Company’s business could be negatively impacted as a result of stockholder activism or an unsolicited takeover proposal or a proxy contest.**

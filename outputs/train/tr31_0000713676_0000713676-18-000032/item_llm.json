@@ -1,0 +1,107 @@
+[
+    {
+        "item": "item01",
+        "page": 6.0,
+        "text": "**ITEM 1 \u2013 BUSINESS**"
+    },
+    {
+        "item": "item01a",
+        "page": 19.0,
+        "text": "**ITEM 1A \u2013 RISK FACTORS**"
+    },
+    {
+        "item": "item01b",
+        "page": 29.0,
+        "text": "**ITEM 1B \u2013 UNRESOLVED STAFF COMMENTS**"
+    },
+    {
+        "item": "item02",
+        "page": 29.0,
+        "text": "**ITEM 2 \u2013 PROPERTIES**"
+    },
+    {
+        "item": "item03",
+        "page": 29.0,
+        "text": "**ITEM 3 \u2013 LEGAL PROCEEDINGS**"
+    },
+    {
+        "item": "item04",
+        "page": 29.0,
+        "text": "**ITEM 4 \u2013 MINE SAFETY DISCLOSURES**"
+    },
+    {
+        "item": "item05",
+        "page": 31.0,
+        "text": "**ITEM 5 \u2013 MARKET FOR REGISTRANT\u2019S COMMON EQUITY,RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES**"
+    },
+    {
+        "item": "item06",
+        "page": 33.0,
+        "text": "**ITEM 6 \u2013 SELECTED FINANCIAL DATA**"
+    },
+    {
+        "item": "item07",
+        "page": 35.0,
+        "text": "**ITEM 7 \u2013 MANAGEMENT\u2019S DISCUSSION AND ANALYSIS OFFINANCIAL CONDITION AND RESULTS OF OPERATIONS**"
+    },
+    {
+        "item": "item07a",
+        "page": 82.0,
+        "text": "**ITEM 7A \u2013 QUANTITATIVE AND QUALITATIVE DISCLOSURES**"
+    },
+    {
+        "item": "item08",
+        "page": 83.0,
+        "text": "**ITEM 8 \u2013 FINANCIAL STATEMENTS AND SUPPLEMENTARY**"
+    },
+    {
+        "item": "item09",
+        "page": 169.0,
+        "text": "**ITEM 9 \u2013 CHANGES IN AND DISAGREEMENTS WITHACCOUNTANTS ON ACCOUNTING AND FINANCIAL**"
+    },
+    {
+        "item": "item09a",
+        "page": 170.0,
+        "text": "**ITEM 9A \u2013 CONTROLS AND PROCEDURES**"
+    },
+    {
+        "item": "item09b",
+        "page": 170.0,
+        "text": "**ITEM 9B \u2013 OTHER INFORMATION**"
+    },
+    {
+        "item": "item10",
+        "page": 170.0,
+        "text": "item 10 \u2013 directors, executive officers andcorporate governance"
+    },
+    {
+        "item": "item11",
+        "page": 170.0,
+        "text": "**ITEM 11 \u2013 EXECUTIVE COMPENSATION**"
+    },
+    {
+        "item": "item12",
+        "page": 171.0,
+        "text": "**ITEM 12 \u2013 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER**"
+    },
+    {
+        "item": "item13",
+        "page": 171.0,
+        "text": "item 13 \u2013 certain relationships and relatedtransactions, and director independence"
+    },
+    {
+        "item": "item14",
+        "page": 171.0,
+        "text": "**ITEM 14 \u2013 PRINCIPAL ACCOUNTING FEES AND SERVICES**"
+    },
+    {
+        "item": "item15",
+        "page": 172.0,
+        "text": "**ITEM 15 \u2013 EXHIBITS, FINANCIAL STATEMENT SCHEDULES**"
+    },
+    {
+        "item": "item16",
+        "page": 178.0,
+        "text": "**ITEM 16 \u2013 FORM 10-K SUMMARY**"
+    }
+]

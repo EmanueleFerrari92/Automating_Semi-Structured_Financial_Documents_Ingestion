@@ -1,0 +1,31 @@
+**ITEM 1. BUSINESS**
+├── **AUTOMATION SOLUTIONS**
+├── **Measurement & Analytical Instrumentation**
+├── **Valves, Actuators & Regulators**
+├── **Industrial Solutions**
+├── **Process Control Systems & Solutions**
+├── **Plantweb Digital Ecosystem**
+├── **Industry Services**
+├── **Distribution**
+├── **Brands**
+├── **COMMERCIAL & RESIDENTIAL SOLUTIONS**
+├── **CLIMATE TECHNOLOGIES**
+│   ├── **Residential and Commercial Heating and Air Conditioning**
+│   └── **Commercial and Industrial Refrigeration**
+├── **Services and Solutions**
+├── **Distribution**
+├── **TOOLS & HOME PRODUCTS**
+│   ├── **Professional and Do-It-Yourself Tools**
+│   └── **Appliance Solutions**
+├── **Distribution**
+├── **DISCONTINUED OPERATIONS**
+├── **PRODUCTION**
+├── **RAW MATERIALS**
+├── **PATENTS, TRADEMARKS AND LICENSES**
+├── **BACKLOG**
+├── **COMPETITION**
+├── **RESEARCH AND DEVELOPMENT**
+├── **ENVIRONMENT**
+├── **EMPLOYEES**
+├── **DOMESTIC AND FOREIGN OPERATIONS**
+└── **INTERNET ACCESS**

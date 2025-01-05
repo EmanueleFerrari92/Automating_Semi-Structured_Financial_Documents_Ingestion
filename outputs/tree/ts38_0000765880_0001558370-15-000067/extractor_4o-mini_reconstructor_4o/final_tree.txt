@@ -1,0 +1,19 @@
+**ITEM 1. BUSINESS**
+├── **General Overview**
+│   ├── **Business Strategy**
+│   │   ├── **Internal Growth Strategies**
+│   │   ├── **Investment Strategies**
+│   │   └── **Financing Strategies**
+│   ├── **Competition**
+│   ├── **Healthcare Segments**
+│   ├── **Sustainability**
+│   ├── **Employees of HCP**
+│   ├── **Government Regulation, Licensing and Enforcement**
+│   │   └── _Overview_
+│   │       └── _Fraud and Abuse Enforcement_
+│   ├── **Reimbursement**
+│   ├── **Healthcare Licensure and Certificate of Need**
+│   └── **Life Science Facilities**
+├── **Senior Housing Entrance Fee Communities**
+├── **Americans with Disabilities Act (the “ADA”)**
+└── **Environmental Matters**

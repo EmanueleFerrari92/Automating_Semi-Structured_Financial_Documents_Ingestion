@@ -1,0 +1,13 @@
+**ITEM 1A. RISK FACTORS**
+├── **Regulatory, Legislative and Legal Risks**
+├── **Environmental Risks**
+├── **Construction Risks**
+│   └── **The development, construction and commissioning of several large-scale infrastructure projects simultaneously involves significant execution risk**
+├── **Operational Risks**
+│   ├── **War, acts and threats of terrorism, intentional acts and other significant events could adversely affect the Companies’ operations**
+│   └── **Failure to attract and retain key executive officers and an appropriately qualified workforce could have an adverse effect on the Companies’ operations**
+├── **Nuclear Generation Risks**
+└── **Financial, Economic and Market Risks**
+    └── **Changing rating agency requirements could negatively affect the Companies’ growth and business strategy**
+        ├── **An inability to access financial markets and, in the case of Dominion Energy, obtain cash from subsidiaries could adversely affect the execution of the Companies’ business plans**
+        └── **Market performance, interest rates and other changes may decrease the value of the Companies’ decommissioning trust funds and Dominion Energy’s benefit plan assets or increase Dominion Energy’s liabilities, which could then require significant additional funding**

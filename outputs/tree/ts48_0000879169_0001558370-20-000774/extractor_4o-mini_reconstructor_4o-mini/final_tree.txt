@@ -1,0 +1,21 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **Overview**
+│   └── **Merus**
+├── **Calithera**
+├── **MacroGenics**
+├── **Syros**
+├── **Innovent**
+├── **Zai Lab**
+├── **MorphoSys**
+├── **Critical Accounting Policies and Significant Estimates**
+│   └── **Revenue Recognition**
+│       └── **Product Revenues**
+├── **Customer Credits**
+├── **Results of Operations**
+│   ├── **Years Ended December 31, 2019 and 2018**
+│   ├── **Revenues**
+│   └── **Operating Expenses**
+│       ├── **Research and development expenses**
+│       └── **Selling, general and administrative expenses**
+├── **Liquidity and Capital Resources**
+└── **Off-Balance Sheet Arrangements**

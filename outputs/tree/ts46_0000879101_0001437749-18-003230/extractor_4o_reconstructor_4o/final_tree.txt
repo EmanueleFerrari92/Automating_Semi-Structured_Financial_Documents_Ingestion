@@ -1,0 +1,53 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **Critical Accounting Policies**
+│   ├── _Revenue Recognition and Accounts Receivable_
+│   ├── _Real Estate_
+│   ├── _Investments in Unconsolidated Joint Ventures_
+│   └── _Realizability of Deferred Tax Assets and Uncertain Tax Positions_
+├── **Executive Overview**
+│   ├── _Financial and Portfolio Information:_
+│   ├── _Acquisition Activity (see Footnotes 3 and 7 of the Notes to Consolidated Financial Statements included in this Form 10-K):_
+│   ├── _Disposition Activity (see Footnote 5 of the Notes to Consolidated Financial Statements included in this Form 10-K):_
+│   └── _Capital Activity (for additional details see Liquidity and Capital Resources below):_
+├── **Results of Operations**
+│   ├── **Comparison of Years Ended December 31, 2017 to 2016**
+│   ├── _Impairment charges_
+│   ├── _Depreciation and amortization_
+│   ├── _Other (expense)/income, net_
+│   ├── _Early extinguishment of debt charges_
+│   ├── _Benefit/(provision) for income taxes, net_
+│   ├── _Equity in income of joint ventures, net_
+│   ├── _Gain on change in control of interests_
+│   ├── _Equity in income from other real estate investments, net_
+│   ├── _Gain on sale of operating properties, net of tax_
+│   └── **Comparison of Years Ended December 31, 2016 to 2015**
+│       ├── _Revenue from rental properties_
+│       ├── _Management and other fee income_
+│       ├── _Operating and maintenance expense_
+│       ├── _General and administrative expenses_
+│       ├── _Interest, dividends and other investment income_
+│       └── _Interest expense_
+├── **Liquidity and Capital Resources**
+│   ├── _Operating Activities_
+│   ├── _Investing Activities_
+│   ├── _Acquisitions of Operating Real Estate and Other Related Net Assets_
+│   ├── _Improvements to Operating Real Estate_
+│   └── _Improvements to Real Estate Under Development_
+├── **Financing Activities**
+│   ├── _Preferred Stock_
+│   ├── _Common Stock_
+│   ├── _Medium Term Notes (“MTN”) and Senior Notes_
+│   ├── _Credit Facility_
+│   ├── _Term Loan_
+│   ├── _Mortgages Payable_
+│   ├── _Dividends_
+│   ├── _Hurricane Impact_
+│   └── _Income Taxes_
+├── **Contractual Obligations and Other Commitments**
+├── **Off-Balance Sheet Arrangements**
+│   ├── _Unconsolidated Real Estate Joint Ventures_
+│   └── _Other Real Estate Investments_
+├── **Funds From Operations**
+│   ├── _Same Property Net Operating Income (“Same property NOI”)_
+│   └── _Effects of Inflation_
+└── _New Accounting Pronouncements_

@@ -1,0 +1,25 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **CRITICAL ACCOUNTING ESTIMATES AND POLICIES**
+│   ├── **Revenue Recognition...**
+│   ├── **Accounting for Stock-Based Compensation Plans**
+│   ├── **Contingencies and Litigation**
+│   ├── **Goodwill and Intangible Assets**
+│   │   └── **Income Taxes**
+│   └── **Recent Accounting Pronouncements**
+├── **EXECUTIVE SUMMARY**
+├── **Proposed Merger with Orbotech, Ltd.**
+└── **ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+    ├── **Revenues and Gross Margin**
+    │   ├── **Product revenues**
+    │   ├── **Service revenues**
+    │   ├── **Revenues - Top Customers**
+    │   ├── **Revenues by region**
+    │   └── **Gross margin**
+    ├── **Research and Development**
+    ├── **Selling, General and Administrative (“SG&A”)**
+    │   ├── **Restructuring Charges**
+    │   ├── **Interest Expense and Other Expense (Income), Net**
+    │   └── **Provision for Income Taxes**
+    ├── **Liquidity and Capital Resources**
+    └── **Contractual Obligations**
+        └── **Off-Balance Sheet Arrangements**

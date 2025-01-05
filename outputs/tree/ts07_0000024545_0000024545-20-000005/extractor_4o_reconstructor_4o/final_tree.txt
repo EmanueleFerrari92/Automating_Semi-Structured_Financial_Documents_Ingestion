@@ -1,0 +1,52 @@
+**ITEM 1. BUSINESS**
+├── **Background**
+├── **_Revitalization Plan_**
+├── **Industry Overview**
+├── **_Global Competitors' Market Capitalization_**
+├── **_Our Products_**
+│   ├── **_Brands sold in the U.S._**
+│   ├── **_Brands sold in Canada_**
+│   ├── **Licensed premium import brands[(1)]**
+│   ├── **_Brands sold in Europe_**
+│   └── **_Brands sold in International_**
+├── **Our Segments**
+│   ├── **_United States Segment_**
+│   ├── _Manufacturing, Production and Packaging_
+│   ├── _Brewing Raw Materials_
+│   ├── _Packaging Materials_
+│   ├── _Contract Manufacturing_
+│   ├── _Seasonality of the Business_
+│   ├── _Known Trends and Competitive Conditions_
+│   │   └── _2019 U.S. Beer Industry Overview_
+│   ├── _Our Competitive Position_
+│   ├── _Regulation_
+│   ├── **_Canada Segment_**
+│   ├── _Sales and Distribution_
+│   ├── _Channels_
+│   │   ├── _Province of Ontario_
+│   │   ├── _Province of Québec_
+│   │   ├── _Province of British Columbia_
+│   │   ├── _Province of Alberta_
+│   │   ├── _Other Provinces_
+│   │   └── _2019 Canada Beer Industry Overview_
+│   ├── **_Europe Segment_**
+│   ├── _Sales and Distribution_
+│   │   └── _Channels_
+│   ├── _Manufacturing, Production and Packaging_
+│   ├── _Brewing Raw Materials_
+│   ├── _Seasonality of Business_
+│   ├── _Known Trends and Competitive Conditions_
+│   │   └── _2019 Europe Beer Industry Overview_
+│   ├── _Our Competitive Position_
+│   ├── _Regulation_
+│   └── **_International Segment_**
+│       ├── _Latin America_
+│       └── _Asia Pacific and Africa_
+├── **_Corporate_**
+├── **Other Information**
+├── **_Global Intellectual Property_**
+├── **_Sustainability_**
+├── **Environmental Matters**
+├── **Employees**
+├── **Available Information**
+└── **Information About Our Executive Officers**

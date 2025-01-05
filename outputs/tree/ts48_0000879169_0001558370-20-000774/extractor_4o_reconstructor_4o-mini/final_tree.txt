@@ -1,0 +1,12 @@
+**ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS**
+├── **Overview**
+├── **License Agreements and Business Relationships**
+└── **Critical Accounting Policies and Significant Estimates**
+    ├── **Revenue Recognition**
+    ├── **Product Revenues**
+    ├── **Results of Operations**
+    │   ├── **_Years Ended December 31, 2019 and 2018_**
+    │   ├── **_Revenues_**
+    │   └── **Operating Expenses**
+    └── **Liquidity and Capital Resources**
+        └── **Off-Balance Sheet Arrangements**

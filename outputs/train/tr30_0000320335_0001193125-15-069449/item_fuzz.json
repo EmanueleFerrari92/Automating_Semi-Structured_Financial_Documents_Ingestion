@@ -1,0 +1,142 @@
+{
+    "missing": [
+        "item05"
+    ],
+    "duplicates": [],
+    "misplaced": [],
+    "detected": [
+        {
+            "label": "item01",
+            "page": 2,
+            "id": 740,
+            "text": "**Item 1. Business**",
+            "index": 740
+        },
+        {
+            "label": "item01a",
+            "page": 7,
+            "id": 1690,
+            "text": "**Item 1A. Risk Factors**",
+            "index": 1690
+        },
+        {
+            "label": "item01b",
+            "page": 13,
+            "id": 2630,
+            "text": "**Item 1B. Unresolved Staff Comments**",
+            "index": 2630
+        },
+        {
+            "label": "item02",
+            "page": 13,
+            "id": 2650,
+            "text": "**Item 2. Properties**",
+            "index": 2650
+        },
+        {
+            "label": "item03",
+            "page": 14,
+            "id": 2740,
+            "text": "**Item 3. Legal Proceedings**",
+            "index": 2740
+        },
+        {
+            "label": "item04",
+            "page": 14,
+            "id": 2770,
+            "text": "**Item 4. Mine Safety Disclosures.**",
+            "index": 2770
+        },
+        {
+            "label": "item06",
+            "page": 17,
+            "id": 3150,
+            "text": "**Item 6. Selected Financial Data**",
+            "index": 3150
+        },
+        {
+            "label": "item07",
+            "page": 18,
+            "id": 3260,
+            "text": "**Item 7. Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations**",
+            "index": 3260
+        },
+        {
+            "label": "item07a",
+            "page": 53,
+            "id": 9820,
+            "text": "**Item 7A. Quantitative and Qualitative Disclosures about Market Risk**",
+            "index": 9820
+        },
+        {
+            "label": "item08",
+            "page": 54,
+            "id": 9870,
+            "text": "**Item 8. Financial Statements and Supplementary Data**",
+            "index": 9870
+        },
+        {
+            "label": "item09",
+            "page": 109,
+            "id": 21450,
+            "text": "**Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure**",
+            "index": 21450
+        },
+        {
+            "label": "item09a",
+            "page": 109,
+            "id": 21470,
+            "text": "**Item 9A. Controls and Procedures**",
+            "index": 21470
+        },
+        {
+            "label": "item09b",
+            "page": 109,
+            "id": 21510,
+            "text": "**Item 9B. Other Information**",
+            "index": 21510
+        },
+        {
+            "label": "item10",
+            "page": 112,
+            "id": 21850,
+            "text": "**Item 10. Directors, Executive Officers and Corporate Governance**",
+            "index": 21850
+        },
+        {
+            "label": "item11",
+            "page": 112,
+            "id": 21870,
+            "text": "**Item 11. Executive Compensation**",
+            "index": 21870
+        },
+        {
+            "label": "item12",
+            "page": 112,
+            "id": 21890,
+            "text": "**Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters**",
+            "index": 21890
+        },
+        {
+            "label": "item13",
+            "page": 112,
+            "id": 22070,
+            "text": "**Item 13. Certain Relationships and Related Transactions and Director Independence**",
+            "index": 22070
+        },
+        {
+            "label": "item14",
+            "page": 112,
+            "id": 22090,
+            "text": "**Item 14. Principal Accountant Fees and Services**",
+            "index": 22090
+        },
+        {
+            "label": "item15",
+            "page": 113,
+            "id": 22160,
+            "text": "**Item 15. Exhibits and Financial Statement Schedules**",
+            "index": 22160
+        }
+    ]
+}

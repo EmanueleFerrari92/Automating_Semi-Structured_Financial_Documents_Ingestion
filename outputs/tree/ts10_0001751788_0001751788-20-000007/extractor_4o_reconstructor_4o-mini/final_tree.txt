@@ -1,0 +1,31 @@
+**ITEM 1. BUSINESS**
+├── **THE COMPANY**
+├── **Available Information**
+├── **MERGER AND SEPARATION**
+│   └── **About Dow**
+├── **BUSINESS SEGMENTS AND PRODUCTS**
+│   ├── **PACKAGING & SPECIALTY PLASTICS**
+│   ├── **Hydrocarbons & Energy**
+│   └── **Packaging and Specialty Plastics**
+├── **Divestiture**
+├── **Products**
+├── **JOINT VENTURES**
+├── **CURRENT AND FUTURE INVESTMENTS**
+├── **INDUSTRIAL INTERMEDIATES & INFRASTRUCTURE**
+├── **Industrial Solutions**
+│   └── **Polyurethanes & Construction Chemicals**
+├── **JOINT VENTURES**
+├── **CURRENT AND FUTURE INVESTMENTS**
+├── **PERFORMANCE MATERIALS & COATINGS**
+│   └── **Coatings & Performance Monomers**
+├── **Consumer Solutions**
+├── **CORPORATE**
+├── **RAW MATERIALS**
+├── **INDUSTRY SEGMENTS AND GEOGRAPHIC REGION RESULTS**
+├── **SIGNIFICANT CUSTOMERS AND PRODUCTS**
+├── **PATENTS, LICENSES AND TRADEMARKS**
+├── **PRINCIPAL PARTLY OWNED COMPANIES**
+├── **PROTECTION OF THE ENVIRONMENT**
+├── **EMPLOYEES**
+├── **OTHER ACTIVITIES**
+└── **EXECUTIVE OFFICERS OF THE REGISTRANT**

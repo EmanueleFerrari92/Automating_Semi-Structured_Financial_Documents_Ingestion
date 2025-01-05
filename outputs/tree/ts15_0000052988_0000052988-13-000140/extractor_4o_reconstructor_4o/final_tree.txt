@@ -1,0 +1,38 @@
+**ITEM 1A. RISK FACTORS**
+├── **Construction and maintenance sites are inherently dangerous workplaces.**
+├── **Our project execution activities may result in liability for faulty engineering services.**
+├── **The outcome of pending and future claims and litigation could have a material adverse impact on our business, financial condition, and results of operations.**
+├── **We bear the risk of cost overruns in fixed-price contracts.**
+├── **Our vulnerability to the cyclical nature of the markets in which our clients operate is exacerbated during economic downturns or time of political uncertainty.**
+├── **Fluctuations in commodity prices may affect our customers’ investment decisions and therefore subject us to risks of cancellation, delays in existing work, or changes in the timing and funding of new awards.**
+├── **Our continued success is dependent upon our ability to hire, retain, and utilize qualified personnel.**
+├── **Contracts with the U.S. federal government and other governments and their agencies pose additional risks relating to future funding and compliance.**
+├── **The contracts in our backlog may be adjusted, cancelled or suspended by our clients and, therefore, our backlog is not necessarily indicative of our future revenues or earnings.**
+├── **Additionally, even if fully performed, our backlog is not a good indicator of our future gross margins.**
+├── **_Negative conditions in the credit and financial markets and delays in receiving client payments could result in liquidity problems._**
+├── **_Our use of joint ventures and partnerships exposes us to risks and uncertainties, many of which are outside of our control._**
+├── **_We are dependent on third parties to complete many of our contracts._**
+├── **_Maintaining adequate bonding and letter of credit capacity is necessary for us to successfully bid on and win some contracts._**
+├── **_Past and future environmental, heath, and safety laws could impose significant additional costs and liabilities._**
+├── **_If we fail to comply with federal, state, local or foreign governmental requirements, our business may be adversely affected._**
+├── **_Employee, agent or partner misconduct or our overall failure to comply with laws or regulations could weaken our ability to win contracts, which could result in reduced revenues and profits._**
+├── **_We could be adversely affected by violations of the U.S. Foreign Corrupt Practices Act and similar worldwide anti-bribery laws._**
+├── **_The loss of or a significant reduction in business from one or a few customers could have an adverse impact on us._**
+├── **_We engage in a highly competitive business. If we are unable to compete effectively, we could lose market share and our business and results of operations could be negatively impacted._**
+├── **_In addition to the risks discussed elsewhere in Risk Factors, our international operations are also exposed to additional risks and uncertainties including unfavorable political developments and weak foreign economies._**
+├── **_We work in international locations where there are high security risks, which could result in harm to our employees or unanticipated cost._**
+├── **_Foreign exchange risks may affect our ability to realize a profit from certain projects._**
+├── **_Our business strategy relies in part on acquisitions to sustain our growth. Acquisitions of other companies present certain risks and uncertainties._**
+├── **_In the event we issue stock as consideration for certain acquisitions we may make, we could dilute share ownership._**
+├── **_Our quarterly results may fluctuate significantly, which could have a material negative effect on the price of our common stock._**
+├── **_Our actual results could differ from the estimates and assumptions used to prepare our financial statements._**
+├── **_An impairment charge of goodwill could have a material adverse impact on our financial condition and results of operations._**
+├── **_We may be required to contribute additional cash to meet any underfunded benefit obligations associated with retirement and post-retirement benefit plans we manage._**
+├── **_Rising inflation, interest rates, and/or construction costs could reduce the demand for our services as well as decrease our profit on our existing contracts, in particular with respect to our fixed-price contracts._**
+├── **_We may be affected by market or regulatory responses to climate change._**
+├── **_Our effective tax rate may increase or decrease._**
+├── **_Systems and information technology interruption could adversely impact our ability to operate._**
+├── **_We may not be able to protect our intellectual property or that of our clients._**
+├── **_Our businesses could be materially and adversely affected by events outside of our control._**
+├── **_We are subject to professional standards, duties and statutory obligations on professional reports and opinions we issue, which could subject us to monetary damages._**
+└── **_Delaware law and our charter documents may impede or discourage a takeover or change of control._**

@@ -1,0 +1,17 @@
+**ITEM 1A. RISK FACTORS**
+├── - A significant interruption in the operation of any of our supply chain or distribution capabilities could have an adverse effect on our business...
+├── - Our business could be harmed by strikes or work stoppages.
+├── - Our ability to competitively serve customers depends on the availability of reliable transportation. Increases in logistics and other transportation-related costs could adversely impact our results of operations.
+├── - Our operations are subject to the general risks of the food industry.
+├── - Changes in our relationships with significant customers, including the loss of our largest customer, could adversely affect our results of operations.
+├── - We operate in the competitive food industry and continued demand for our products may be affected by changes in consumer preferences.
+├── - The success of our business depends substantially on consumer perceptions of our brands.
+├── - We could be subject to adverse publicity or claims from consumers.
+├── - Our operations are subject to the general risks associated with acquisitions.
+├── - Our substantial debt obligations could restrict our operations and financial condition.
+├── - Servicing our indebtedness will require a significant amount of cash. Our ability to generate cash depends on many factors beyond our control.
+├── - A material impairment in the carrying value of acquired goodwill or other intangible assets could negatively affect our consolidated operating results and net worth.
+├── - Changes in tax, environmental, or other regulations and laws, or their application, or failure to comply with existing licensing, trade, and other regulations and laws could have a material adverse effect on our financial condition.
+├── - Our operations in certain developing markets expose us to regulatory risks.
+├── - Changes in climate or legal, regulatory, or market measures to address climate change may negatively affect our business and operations.
+└── - If our information technology systems fail to perform adequately or we are unable to protect such information technology systems against data corruption, cyber-based attacks, or network security breaches, our operations could be disrupted, and we may suffer financial damage or loss because of lost or misappropriated information.
