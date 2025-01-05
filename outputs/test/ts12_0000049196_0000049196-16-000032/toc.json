@@ -1,0 +1,167 @@
+[
+    {
+        "text": "Item 1. Business",
+        "label": "item01",
+        "extracted_page_number": "7"
+    },
+    {
+        "text": "Item 1A. Risk Factors",
+        "label": "item01a",
+        "extracted_page_number": "18"
+    },
+    {
+        "text": "Item 1B. Unresolved Staff Comments",
+        "label": "item01b",
+        "extracted_page_number": "25"
+    },
+    {
+        "text": "Item 2. Properties",
+        "label": "item02",
+        "extracted_page_number": "25"
+    },
+    {
+        "text": "Item 3. Legal Proceedings",
+        "label": "item03",
+        "extracted_page_number": "25"
+    },
+    {
+        "text": "Item 4. Mine Safety Disclosures",
+        "label": "item04",
+        "extracted_page_number": "26"
+    },
+    {
+        "text": "Item 5. Market for Registrant\u2019s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities",
+        "label": "item05",
+        "extracted_page_number": "26"
+    },
+    {
+        "text": "Item 6. Selected Financial Data",
+        "label": "item06",
+        "extracted_page_number": "28"
+    },
+    {
+        "text": "Item 7. Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations",
+        "label": "item07",
+        "extracted_page_number": "30"
+    },
+    {
+        "text": "Introduction",
+        "label": "subheading",
+        "extracted_page_number": "30"
+    },
+    {
+        "text": "Executive Overview",
+        "label": "subheading",
+        "extracted_page_number": "30"
+    },
+    {
+        "text": "Discussion of Results of Operations",
+        "label": "subheading",
+        "extracted_page_number": "34"
+    },
+    {
+        "text": "Risk Management and Capital:",
+        "label": "subheading",
+        "extracted_page_number": "43"
+    },
+    {
+        "text": "Credit Risk",
+        "label": "subheading",
+        "extracted_page_number": "43"
+    },
+    {
+        "text": "Market Risk",
+        "label": "subheading",
+        "extracted_page_number": "59"
+    },
+    {
+        "text": "Liquidity Risk",
+        "label": "subheading",
+        "extracted_page_number": "60"
+    },
+    {
+        "text": "Operational Risk",
+        "label": "subheading",
+        "extracted_page_number": "67"
+    },
+    {
+        "text": "Compliance Risk",
+        "label": "subheading",
+        "extracted_page_number": "67"
+    },
+    {
+        "text": "Capital",
+        "label": "subheading",
+        "extracted_page_number": "68"
+    },
+    {
+        "text": "Business Segment Discussion",
+        "label": "subheading",
+        "extracted_page_number": "71"
+    },
+    {
+        "text": "Results for the Fourth Quarter",
+        "label": "subheading",
+        "extracted_page_number": "80"
+    },
+    {
+        "text": "Additional Disclosures",
+        "label": "subheading",
+        "extracted_page_number": "89"
+    },
+    {
+        "text": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+        "label": "item07a",
+        "extracted_page_number": "94"
+    },
+    {
+        "text": "Item 8. Financial Statements and Supplementary Data",
+        "label": "item08",
+        "extracted_page_number": "94"
+    },
+    {
+        "text": "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+        "label": "item09",
+        "extracted_page_number": "189"
+    },
+    {
+        "text": "Item 9A. Controls and Procedures",
+        "label": "item09a",
+        "extracted_page_number": "189"
+    },
+    {
+        "text": "Item 9B. Other Information",
+        "label": "item09b",
+        "extracted_page_number": "189"
+    },
+    {
+        "text": "Item 10. Directors, Executive Officers and Corporate Governance",
+        "label": "item10",
+        "extracted_page_number": "189"
+    },
+    {
+        "text": "Item 11. Executive Compensation",
+        "label": "item11",
+        "extracted_page_number": "189"
+    },
+    {
+        "text": "Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters Equity Compensation Plan Information",
+        "label": "item12",
+        "extracted_page_number": "189"
+    },
+    {
+        "text": "Item 13. Certain Relationships and Related Transactions, and Director Independence",
+        "label": "item13",
+        "extracted_page_number": "190"
+    },
+    {
+        "text": "Item 14. Principal Accountant Fees and Services",
+        "label": "item14",
+        "extracted_page_number": "190"
+    },
+    {
+        "text": "Item 15. Exhibits and Financial Statement Schedules",
+        "label": "item15",
+        "extracted_page_number": "190"
+    }
+]

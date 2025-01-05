@@ -1,0 +1,207 @@
+[
+    {
+        "text": "ITEM 1. BUSINESS",
+        "label": "item01",
+        "extracted_page_number": "1"
+    },
+    {
+        "text": "General",
+        "label": "subheading",
+        "extracted_page_number": "1"
+    },
+    {
+        "text": "Available Information and Pfizer Website",
+        "label": "subheading",
+        "extracted_page_number": "2"
+    },
+    {
+        "text": "Commercial Operations",
+        "label": "subheading",
+        "extracted_page_number": "3"
+    },
+    {
+        "text": "Innovative Products",
+        "label": "subheading",
+        "extracted_page_number": "4"
+    },
+    {
+        "text": "Established Products",
+        "label": "subheading",
+        "extracted_page_number": "5"
+    },
+    {
+        "text": "Alliance Revenues",
+        "label": "subheading",
+        "extracted_page_number": "6"
+    },
+    {
+        "text": "Research and Development",
+        "label": "subheading",
+        "extracted_page_number": "6"
+    },
+    {
+        "text": "International Operations",
+        "label": "subheading",
+        "extracted_page_number": "8"
+    },
+    {
+        "text": "Marketing",
+        "label": "subheading",
+        "extracted_page_number": "8"
+    },
+    {
+        "text": "Patents and Other Intellectual Property Rights",
+        "label": "subheading",
+        "extracted_page_number": "9"
+    },
+    {
+        "text": "Competition",
+        "label": "subheading",
+        "extracted_page_number": "11"
+    },
+    {
+        "text": "Raw Materials",
+        "label": "subheading",
+        "extracted_page_number": "13"
+    },
+    {
+        "text": "Government Regulation and Price Constraints",
+        "label": "subheading",
+        "extracted_page_number": "13"
+    },
+    {
+        "text": "Environmental Matters",
+        "label": "subheading",
+        "extracted_page_number": "18"
+    },
+    {
+        "text": "Tax Matters",
+        "label": "subheading",
+        "extracted_page_number": "19"
+    },
+    {
+        "text": "Employees",
+        "label": "subheading",
+        "extracted_page_number": "19"
+    },
+    {
+        "text": "Disclosure Pursuant to Section 219 of the Iran Threat Reduction and Syria Human Rights Act of 2012",
+        "label": "subheading",
+        "extracted_page_number": "19"
+    },
+    {
+        "text": "ITEM 1A. RISK FACTORS",
+        "label": "item01a",
+        "extracted_page_number": "20"
+    },
+    {
+        "text": "ITEM 1B. UNRESOLVED STAFF COMMENTS",
+        "label": "item01b",
+        "extracted_page_number": "33"
+    },
+    {
+        "text": "ITEM 2. PROPERTIES",
+        "label": "item02",
+        "extracted_page_number": "33"
+    },
+    {
+        "text": "ITEM 3. LEGAL PROCEEDINGS",
+        "label": "item03",
+        "extracted_page_number": "33"
+    },
+    {
+        "text": "ITEM 4. MINE SAFETY DISCLOSURES",
+        "label": "item04",
+        "extracted_page_number": "33"
+    },
+    {
+        "text": "EXECUTIVE OFFICERS OF THE COMPANY",
+        "label": "subheading",
+        "extracted_page_number": "34"
+    },
+    {
+        "text": "ITEM 5. MARKET FOR THE COMPANY\u2019S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES",
+        "label": "item05",
+        "extracted_page_number": "36"
+    },
+    {
+        "text": "ITEM 6. SELECTED FINANCIAL DATA",
+        "label": "item06",
+        "extracted_page_number": "36"
+    },
+    {
+        "text": "ITEM 7. MANAGEMENT\u2019S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "label": "item07",
+        "extracted_page_number": "36"
+    },
+    {
+        "text": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+        "label": "item07a",
+        "extracted_page_number": "36"
+    },
+    {
+        "text": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "label": "item08",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE",
+        "label": "item09",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "ITEM 9A. CONTROLS AND PROCEDURES",
+        "label": "item09a",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "ITEM 9B. OTHER INFORMATION",
+        "label": "item09b",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE",
+        "label": "item10",
+        "extracted_page_number": "38"
+    },
+    {
+        "text": "ITEM 11. EXECUTIVE COMPENSATION",
+        "label": "item11",
+        "extracted_page_number": "38"
+    },
+    {
+        "text": "ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS",
+        "label": "item12",
+        "extracted_page_number": "38"
+    },
+    {
+        "text": "ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE",
+        "label": "item13",
+        "extracted_page_number": "38"
+    },
+    {
+        "text": "ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES",
+        "label": "item14",
+        "extracted_page_number": "38"
+    },
+    {
+        "text": "ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES",
+        "label": "item15",
+        "extracted_page_number": "39"
+    },
+    {
+        "text": "15(a)(1) Financial Statements",
+        "label": "subheading",
+        "extracted_page_number": "39"
+    },
+    {
+        "text": "15(a)(2) Financial Statement Schedules",
+        "label": "subheading",
+        "extracted_page_number": "39"
+    },
+    {
+        "text": "15(a)(3) Exhibits",
+        "label": "subheading",
+        "extracted_page_number": "39"
+    }
+]
