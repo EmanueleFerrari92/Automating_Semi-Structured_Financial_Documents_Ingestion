@@ -1,7 +1,0 @@
-[
-    "SUPERVISOR NOTE: Item 12 is missing from the detected list. Please search for item 12 in the document, as it is critical and currently not detected. The items are otherwise in sequential order, and there are no duplicates or items needing fixing at this time.",
-    "NOTE FROM DETECTOR ASSISTANT: Item 12 found using search for merged text blocks on page 70.\n[ACTIONS TAKEN]: id: 15440, labelled as: item12, reason: Search for merged text blocks on page 70.",
-    "SUPERVISOR NOTE: The heading for item 12 appears to be broken or merged. It is currently labeled as \"item 12(a). security ownership of certain beneficial owners,\" which does not match the expected heading for item 12. Please fix this heading to ensure it aligns with the standard format.",
-    "NOTE FROM FIXER ASSISTANT: The item 12 heading was successfully fixed. It was initially split across multiple rows and fragmented. I joined the relevant rows and then extracted the fragmented heading to align it with the standard format.\n ACTION TAKEN: Target id: 15440 was fixed.",
-    "SUPERVISOR NOTE: All detected items are now in sequential order and correctly labeled. Item 12 was successfully fixed, and there are no duplicates or missing items. Proceeding to validation."
-]

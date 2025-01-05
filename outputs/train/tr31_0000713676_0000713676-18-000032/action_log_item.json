@@ -1,9 +1,0 @@
-[
-    "SUPERVISOR NOTE: Please search for the missing items 10 and 13 in the document. These items are currently not detected, and we need to ensure they are either found or confirmed as absent.",
-    "NOTE FROM DETECTOR ASSISTANT: Item 10 was successfully detected using the specified strategy.\n[ACTIONS TAKEN]: id: 48630, labelled as: item10, reason: Search for merged text blocks between pages 169 and 171.",
-    "NOTE FROM DETECTOR ASSISTANT: Item 13 was successfully detected using the specified strategy.\n[ACTIONS TAKEN]: id: 48940, labelled as: item13, reason: Search for merged text blocks between pages 171 and 172.",
-    "SUPERVISOR NOTE: Please fix the headings for items 10 and 13. They appear to be broken or merged with other text blocks. Ensure that the headings are complete and properly formatted.",
-    "NOTE FROM FIXER ASSISTANT: The item 10 heading was split across two rows. I successfully joined them to form the complete heading: 'ITEM 10 \u2013 DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE'.\n ACTION TAKEN: Target id: 48630 was fixed.",
-    "NOTE FROM FIXER ASSISTANT: The item heading for item 13 was split across two rows. I successfully joined them to form the complete heading: 'ITEM 13 \u2013 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE'.\n ACTION TAKEN: Target id: 48940 was fixed.",
-    "SUPERVISOR NOTE: All detected items have been reviewed and are in the correct order and format. Items 10 and 13 were previously fixed. No duplicates or missing items are present. Proceeding to validation."
-]

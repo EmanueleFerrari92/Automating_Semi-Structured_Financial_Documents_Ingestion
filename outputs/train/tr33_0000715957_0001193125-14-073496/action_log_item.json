@@ -1,5 +1,0 @@
-[
-    "SUPERVISOR NOTE: Please verify if Item 4 is truly missing or if it was omitted due to exemption. All other items are correctly identified and in order.",
-    "NOTE FROM DETECTOR ASSISTANT: Item 4 was successfully detected using the specified strategy.\n[ACTIONS TAKEN]: id: 6520, labelled as: item04, reason: Search for merged text blocks between pages 31 and 33.",
-    "SUPERVISOR NOTE: All items have been correctly identified and are in order. Item 4 was detected and marked as not applicable, confirming its presence. No duplicates or missing items were found, so the document is ready for validation."
-]

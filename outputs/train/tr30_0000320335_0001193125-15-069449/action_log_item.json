@@ -1,7 +1,0 @@
-[
-    "SUPERVISOR NOTE: Please search for the missing item 5. It should be located between items 4 and 6. Ensure that the heading is correctly identified and matches the expected format for item 5.",
-    "NOTE FROM DETECTOR ASSISTANT: Item 5 was successfully detected using the specified strategy.\n[ACTIONS TAKEN]: id: 2830, labelled as: item05, reason: Search for merged text blocks between pages 14 and 17.",
-    "SUPERVISOR NOTE: The item 5 heading appears to be incomplete or merged with other text blocks. Please fix the heading for item 5, ensuring it matches the expected format: 'Item 5. Market for Registrant\u2019s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.' The current text ends with a comma, indicating it might be merged or incomplete.",
-    "NOTE FROM FIXER ASSISTANT: The item 5 heading was split across two rows. I successfully joined them to form the complete heading: 'Item 5. Market for Registrant\u2019s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.'\n ACTION TAKEN: Target id: 2830 was fixed.",
-    "SUPERVISOR NOTE: The item headings have been reviewed and corrected where necessary. All items are present in the correct order, and no duplicates or missing items have been identified. Proceeding to validation."
-]

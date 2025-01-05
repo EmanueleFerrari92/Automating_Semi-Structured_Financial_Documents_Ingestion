@@ -1,5 +1,0 @@
-[
-    "SUPERVISOR NOTE: Please search for Item 7, as it is currently missing from the document. All other items have been identified correctly, but Item 7 is a required section and needs to be located.",
-    "NOTE FROM DETECTOR ASSISTANT: Item 7 was successfully detected on page 44 using the specified strategy.\n[ACTIONS TAKEN]: id: 7330, labelled as: item07, reason: Search for merged text blocks between pages 43 and 76.",
-    "SUPERVISOR NOTE: All items have been successfully detected and are in the correct order. Item 7, which was previously missing, has been located. There are no duplicates or missing items, and no items appear to be broken or merged. Proceeding to validation."
-]
