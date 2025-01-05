@@ -1,5 +1,0 @@
-[
-    "SUPERVISOR NOTE: Please search for the missing item 'item01c'. It was not detected in the initial review, and we need to confirm its presence or absence in the document.",
-    "NOTE FROM DETECTOR ASSISTANT: Item 1C found as 'Executive Officers of the Registrant' on page 20, ID 3410. Different title used, but item01c is optional.\n[ACTIONS TAKEN]: id: 3410, labelled as: item01c, reason: Found by retrieving page text around known items, page 20.",
-    "SUPERVISOR NOTE: All items are present and correctly ordered. Item01c was found with a different title but is acceptable as it is optional. No duplicates or missing items need to be addressed. Proceeding to validation."
-]
