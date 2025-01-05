@@ -1,0 +1,142 @@
+{
+    "missing": [
+        "item06"
+    ],
+    "duplicates": [],
+    "misplaced": [],
+    "detected": [
+        {
+            "label": "item01",
+            "page": 3,
+            "id": 690,
+            "text": "**Item 1.Business**",
+            "index": 690
+        },
+        {
+            "label": "item01a",
+            "page": 16,
+            "id": 2940,
+            "text": "**Item 1A.Risk Factors**",
+            "index": 2940
+        },
+        {
+            "label": "item01b",
+            "page": 26,
+            "id": 4220,
+            "text": "**Item 1B.Unresolved Staff Comments**",
+            "index": 4220
+        },
+        {
+            "label": "item02",
+            "page": 26,
+            "id": 4240,
+            "text": "**Item 2.Properties**",
+            "index": 4240
+        },
+        {
+            "label": "item03",
+            "page": 27,
+            "id": 4310,
+            "text": "**Item 3.Legal Proceedings**",
+            "index": 4310
+        },
+        {
+            "label": "item04",
+            "page": 27,
+            "id": 4330,
+            "text": "**Item 4.Mine Safety Disclosures**",
+            "index": 4330
+        },
+        {
+            "label": "item05",
+            "page": 28,
+            "id": 4370,
+            "text": "**Item 5.Market for the Registrant\u2019s Common Stock, Related Stockholder Matters and Issuer Purchases of Equity Securities**",
+            "index": 4370
+        },
+        {
+            "label": "item07",
+            "page": 31,
+            "id": 5160,
+            "text": "**Item 7.Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations**",
+            "index": 5160
+        },
+        {
+            "label": "item07a",
+            "page": 49,
+            "id": 7670,
+            "text": "**Item 7A.Quantitative and Qualitative Disclosures About Market Risk**",
+            "index": 7670
+        },
+        {
+            "label": "item08",
+            "page": 50,
+            "id": 7740,
+            "text": "**Item 8.Financial Statements and Supplementary Data**",
+            "index": 7740
+        },
+        {
+            "label": "item09",
+            "page": 50,
+            "id": 7760,
+            "text": "**Item 9.Changes in and Disagreements with Accountants on Accounting and Financial Disclosure**",
+            "index": 7760
+        },
+        {
+            "label": "item09a",
+            "page": 50,
+            "id": 7780,
+            "text": "**Item 9A.Controls and Procedures**",
+            "index": 7780
+        },
+        {
+            "label": "item09b",
+            "page": 51,
+            "id": 7900,
+            "text": "**Item 9B.Other Information.**",
+            "index": 7900
+        },
+        {
+            "label": "item10",
+            "page": 52,
+            "id": 7940,
+            "text": "**Item 10.Directors, Executive Officers and Corporate Governance**",
+            "index": 7940
+        },
+        {
+            "label": "item11",
+            "page": 52,
+            "id": 7960,
+            "text": "**Item 11.Executive Compensation**",
+            "index": 7960
+        },
+        {
+            "label": "item12",
+            "page": 52,
+            "id": 7980,
+            "text": "**Item 12.Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters**",
+            "index": 7980
+        },
+        {
+            "label": "item13",
+            "page": 52,
+            "id": 8000,
+            "text": "**Item 13.Certain Relationships and Related Transactions, and Director Independence**",
+            "index": 8000
+        },
+        {
+            "label": "item14",
+            "page": 52,
+            "id": 8020,
+            "text": "**Item 14.Principal Accountant Fees and Services**",
+            "index": 8020
+        },
+        {
+            "label": "item15",
+            "page": 53,
+            "id": 8060,
+            "text": "**Item 15.Exhibits and Financial Statement Schedules**",
+            "index": 8060
+        }
+    ]
+}

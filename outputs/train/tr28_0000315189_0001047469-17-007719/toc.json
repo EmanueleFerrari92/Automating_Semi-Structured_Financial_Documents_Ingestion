@@ -1,0 +1,102 @@
+[
+    {
+        "text": "ITEM BUSINESS",
+        "label": "item01",
+        "extracted_page_number": "2"
+    },
+    {
+        "text": "ITEM RISK FACTORS",
+        "label": "item01a",
+        "extracted_page_number": "9"
+    },
+    {
+        "text": "ITEM UNRESOLVED STAFF COMMENTS",
+        "label": "item01b",
+        "extracted_page_number": "15"
+    },
+    {
+        "text": "ITEM PROPERTIES",
+        "label": "item02",
+        "extracted_page_number": "15"
+    },
+    {
+        "text": "ITEM LEGAL PROCEEDINGS",
+        "label": "item03",
+        "extracted_page_number": "15"
+    },
+    {
+        "text": "ITEM MINE SAFETY DISCLOSURES",
+        "label": "item04",
+        "extracted_page_number": "15"
+    },
+    {
+        "text": "ITEM MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES",
+        "label": "item05",
+        "extracted_page_number": "15"
+    },
+    {
+        "text": "ITEM SELECTED FINANCIAL DATA",
+        "label": "item06",
+        "extracted_page_number": "16"
+    },
+    {
+        "text": "ITEM MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "label": "item07",
+        "extracted_page_number": "16"
+    },
+    {
+        "text": "ITEM QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+        "label": "item07a",
+        "extracted_page_number": "16"
+    },
+    {
+        "text": "ITEM FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "label": "item08",
+        "extracted_page_number": "16"
+    },
+    {
+        "text": "ITEM CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE",
+        "label": "item09",
+        "extracted_page_number": "16"
+    },
+    {
+        "text": "ITEM CONTROLS AND PROCEDURES",
+        "label": "item09a",
+        "extracted_page_number": "16"
+    },
+    {
+        "text": "ITEM OTHER INFORMATION",
+        "label": "item09b",
+        "extracted_page_number": "17"
+    },
+    {
+        "text": "ITEM DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE",
+        "label": "item10",
+        "extracted_page_number": "17"
+    },
+    {
+        "text": "ITEM EXECUTIVE COMPENSATION",
+        "label": "item11",
+        "extracted_page_number": "17"
+    },
+    {
+        "text": "ITEM SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS",
+        "label": "item12",
+        "extracted_page_number": "17"
+    },
+    {
+        "text": "ITEM CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE",
+        "label": "item13",
+        "extracted_page_number": "17"
+    },
+    {
+        "text": "ITEM PRINCIPAL ACCOUNTANT FEES AND SERVICES",
+        "label": "item14",
+        "extracted_page_number": "17"
+    },
+    {
+        "text": "EXHIBITS AND FINANCIAL STATEMENT SCHEDULES",
+        "label": "item15",
+        "extracted_page_number": "18"
+    }
+]

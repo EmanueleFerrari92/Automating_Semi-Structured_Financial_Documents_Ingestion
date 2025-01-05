@@ -1,0 +1,197 @@
+[
+    {
+        "text": "1. Business",
+        "label": "item01",
+        "extracted_page_number": "1"
+    },
+    {
+        "text": "Competition",
+        "label": "subheading",
+        "extracted_page_number": "9"
+    },
+    {
+        "text": "Supervision and Regulation",
+        "label": "subheading",
+        "extracted_page_number": "11"
+    },
+    {
+        "text": "Additional Information",
+        "label": "subheading",
+        "extracted_page_number": "21"
+    },
+    {
+        "text": "1A. Risk Factors",
+        "label": "item01a",
+        "extracted_page_number": "22"
+    },
+    {
+        "text": "1B. Unresolved Staff Comments",
+        "label": "item01b",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "2. Properties",
+        "label": "item02",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "3. Legal Proceedings",
+        "label": "item03",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "4. Mine Safety Disclosures",
+        "label": "item04",
+        "extracted_page_number": "37"
+    },
+    {
+        "text": "5. Market for Registrant\u2019s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+        "label": "item05",
+        "extracted_page_number": "38"
+    },
+    {
+        "text": "6. Reserved",
+        "label": "item06",
+        "extracted_page_number": "39"
+    },
+    {
+        "text": "7. Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations (MD&A)",
+        "label": "item07",
+        "extracted_page_number": "40"
+    },
+    {
+        "text": "Executive Overview",
+        "label": "subheading",
+        "extracted_page_number": "40"
+    },
+    {
+        "text": "Consolidated Results of Operations",
+        "label": "subheading",
+        "extracted_page_number": "44"
+    },
+    {
+        "text": "Business Segment Results of Operations",
+        "label": "subheading",
+        "extracted_page_number": "50"
+    },
+    {
+        "text": "Consolidated Capital Resources and Liquidity",
+        "label": "subheading",
+        "extracted_page_number": "61"
+    },
+    {
+        "text": "Risk Management",
+        "label": "subheading",
+        "extracted_page_number": "70"
+    },
+    {
+        "text": "Critical Accounting Estimates",
+        "label": "subheading",
+        "extracted_page_number": "78"
+    },
+    {
+        "text": "Other Matters",
+        "label": "subheading",
+        "extracted_page_number": "82"
+    },
+    {
+        "text": "7A. Quantitative and Qualitative Disclosures about Market Risk",
+        "label": "item07a",
+        "extracted_page_number": "88"
+    },
+    {
+        "text": "8. Financial Statements and Supplementary Data",
+        "label": "item08",
+        "extracted_page_number": "88"
+    },
+    {
+        "text": "Management\u2019s Report on Internal Control Over Financial Reporting",
+        "label": "subheading",
+        "extracted_page_number": "88"
+    },
+    {
+        "text": "Report of Independent Registered Public Accounting Firm (PCAOB ID 238)",
+        "label": "subheading",
+        "extracted_page_number": "89"
+    },
+    {
+        "text": "Index to Consolidated Financial Statements",
+        "label": "subheading",
+        "extracted_page_number": "92"
+    },
+    {
+        "text": "Consolidated Financial Statements",
+        "label": "subheading",
+        "extracted_page_number": "93"
+    },
+    {
+        "text": "Notes to Consolidated Financial Statements",
+        "label": "subheading",
+        "extracted_page_number": "98"
+    },
+    {
+        "text": "9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+        "label": "item09",
+        "extracted_page_number": "155"
+    },
+    {
+        "text": "9A. Controls and Procedures",
+        "label": "item09a",
+        "extracted_page_number": "155"
+    },
+    {
+        "text": "9B. Other Information",
+        "label": "item09b",
+        "extracted_page_number": "155"
+    },
+    {
+        "text": "9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections",
+        "label": "item09c",
+        "extracted_page_number": "155"
+    },
+    {
+        "text": "10. Directors, Executive Officers and Corporate Governance",
+        "label": "item10",
+        "extracted_page_number": "156"
+    },
+    {
+        "text": "11. Executive Compensation",
+        "label": "item11",
+        "extracted_page_number": "156"
+    },
+    {
+        "text": "12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+        "label": "item12",
+        "extracted_page_number": "156"
+    },
+    {
+        "text": "13. Certain Relationships and Related Transactions, and Director Independence",
+        "label": "item13",
+        "extracted_page_number": "156"
+    },
+    {
+        "text": "14. Principal Accountant Fees and Services",
+        "label": "item14",
+        "extracted_page_number": "157"
+    },
+    {
+        "text": "15. Exhibit and Financial Statement Schedules",
+        "label": "item15",
+        "extracted_page_number": "158"
+    },
+    {
+        "text": "16. Form 10-K Summary",
+        "label": "item16",
+        "extracted_page_number": "163"
+    },
+    {
+        "text": "Signatures",
+        "label": "subheading",
+        "extracted_page_number": "164"
+    },
+    {
+        "text": "Statistical Disclosure by Bank Holding Companies",
+        "label": "subheading",
+        "extracted_page_number": "A-1"
+    }
+]

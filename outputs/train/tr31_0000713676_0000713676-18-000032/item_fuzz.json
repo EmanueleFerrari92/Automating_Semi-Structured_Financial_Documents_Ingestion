@@ -1,0 +1,143 @@
+{
+    "missing": [
+        "item10",
+        "item13"
+    ],
+    "duplicates": [],
+    "misplaced": [],
+    "detected": [
+        {
+            "label": "item01",
+            "page": 6,
+            "id": 2420,
+            "text": "**ITEM 1 \u2013 BUSINESS**",
+            "index": 2420
+        },
+        {
+            "label": "item01a",
+            "page": 19,
+            "id": 4510,
+            "text": "**ITEM 1A \u2013 RISK FACTORS**",
+            "index": 4510
+        },
+        {
+            "label": "item01b",
+            "page": 29,
+            "id": 6080,
+            "text": "**ITEM 1B \u2013 UNRESOLVED STAFF COMMENTS**",
+            "index": 6080
+        },
+        {
+            "label": "item02",
+            "page": 29,
+            "id": 6100,
+            "text": "**ITEM 2 \u2013 PROPERTIES**",
+            "index": 6100
+        },
+        {
+            "label": "item03",
+            "page": 29,
+            "id": 6130,
+            "text": "**ITEM 3 \u2013 LEGAL PROCEEDINGS**",
+            "index": 6130
+        },
+        {
+            "label": "item04",
+            "page": 29,
+            "id": 6150,
+            "text": "**ITEM 4 \u2013 MINE SAFETY DISCLOSURES**",
+            "index": 6150
+        },
+        {
+            "label": "item05",
+            "page": 31,
+            "id": 6950,
+            "text": "**ITEM 5 \u2013 MARKET FOR REGISTRANT\u2019S COMMON EQUITY,RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES**",
+            "index": 6950
+        },
+        {
+            "label": "item06",
+            "page": 33,
+            "id": 7370,
+            "text": "**ITEM 6 \u2013 SELECTED FINANCIAL DATA**",
+            "index": 7370
+        },
+        {
+            "label": "item07",
+            "page": 35,
+            "id": 8150,
+            "text": "**ITEM 7 \u2013 MANAGEMENT\u2019S DISCUSSION AND ANALYSIS OFFINANCIAL CONDITION AND RESULTS OF OPERATIONS**",
+            "index": 8150
+        },
+        {
+            "label": "item07a",
+            "page": 82,
+            "id": 20670,
+            "text": "**ITEM 7A \u2013 QUANTITATIVE AND QUALITATIVE DISCLOSURES**",
+            "index": 20670
+        },
+        {
+            "label": "item08",
+            "page": 83,
+            "id": 20710,
+            "text": "**ITEM 8 \u2013 FINANCIAL STATEMENTS AND SUPPLEMENTARY**",
+            "index": 20710
+        },
+        {
+            "label": "item09",
+            "page": 169,
+            "id": 48450,
+            "text": "**ITEM 9 \u2013 CHANGES IN AND DISAGREEMENTS WITHACCOUNTANTS ON ACCOUNTING AND FINANCIAL**",
+            "index": 48450
+        },
+        {
+            "label": "item09a",
+            "page": 170,
+            "id": 48480,
+            "text": "**ITEM 9A \u2013 CONTROLS AND PROCEDURES**",
+            "index": 48480
+        },
+        {
+            "label": "item09b",
+            "page": 170,
+            "id": 48600,
+            "text": "**ITEM 9B \u2013 OTHER INFORMATION**",
+            "index": 48600
+        },
+        {
+            "label": "item11",
+            "page": 170,
+            "id": 48690,
+            "text": "**ITEM 11 \u2013 EXECUTIVE COMPENSATION**",
+            "index": 48690
+        },
+        {
+            "label": "item12",
+            "page": 171,
+            "id": 48730,
+            "text": "**ITEM 12 \u2013 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER**",
+            "index": 48730
+        },
+        {
+            "label": "item14",
+            "page": 171,
+            "id": 48970,
+            "text": "**ITEM 14 \u2013 PRINCIPAL ACCOUNTING FEES AND SERVICES**",
+            "index": 48970
+        },
+        {
+            "label": "item15",
+            "page": 172,
+            "id": 49000,
+            "text": "**ITEM 15 \u2013 EXHIBITS, FINANCIAL STATEMENT SCHEDULES**",
+            "index": 49000
+        },
+        {
+            "label": "item16",
+            "page": 178,
+            "id": 52390,
+            "text": "**ITEM 16 \u2013 FORM 10-K SUMMARY**",
+            "index": 52390
+        }
+    ]
+}

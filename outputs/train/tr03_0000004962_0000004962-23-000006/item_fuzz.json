@@ -1,0 +1,144 @@
+{
+    "missing": [
+        "item11",
+        "item12",
+        "item13"
+    ],
+    "duplicates": [],
+    "misplaced": [],
+    "detected": [
+        {
+            "label": "item01",
+            "page": 3,
+            "id": 390,
+            "text": "**ITEM 1. BUSINESS**",
+            "index": 390
+        },
+        {
+            "label": "item01a",
+            "page": 24,
+            "id": 2700,
+            "text": "**ITEM 1A. RISK FACTORS**",
+            "index": 2700
+        },
+        {
+            "label": "item01b",
+            "page": 39,
+            "id": 4410,
+            "text": "**ITEM 1B.UNRESOLVEDSTAFF COMMENTS**",
+            "index": 4410
+        },
+        {
+            "label": "item02",
+            "page": 39,
+            "id": 4430,
+            "text": "**ITEM 2. PROPERTIES**",
+            "index": 4430
+        },
+        {
+            "label": "item03",
+            "page": 39,
+            "id": 4460,
+            "text": "**ITEM 3. LEGAL PROCEEDINGS**",
+            "index": 4460
+        },
+        {
+            "label": "item04",
+            "page": 39,
+            "id": 4480,
+            "text": "**ITEM 4. MINE SAFETY DISCLOSURES**",
+            "index": 4480
+        },
+        {
+            "label": "item05",
+            "page": 40,
+            "id": 4530,
+            "text": "**ITEM 5. MARKET FOR REGISTRANT\u2019S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND**",
+            "index": 4530
+        },
+        {
+            "label": "item06",
+            "page": 41,
+            "id": 4790,
+            "text": "**ITEM 6. [RESERVED]**",
+            "index": 4790
+        },
+        {
+            "label": "item07",
+            "page": 42,
+            "id": 4820,
+            "text": "**ITEM 7. MANAGEMENT\u2019S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF**",
+            "index": 4820
+        },
+        {
+            "label": "item07a",
+            "page": 90,
+            "id": 11740,
+            "text": "**ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK**",
+            "index": 11740
+        },
+        {
+            "label": "item08",
+            "page": 90,
+            "id": 11760,
+            "text": "**ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA**",
+            "index": 11760
+        },
+        {
+            "label": "item09",
+            "page": 157,
+            "id": 21670,
+            "text": "**ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL**",
+            "index": 21670
+        },
+        {
+            "label": "item09a",
+            "page": 157,
+            "id": 21700,
+            "text": "**ITEM 9A. CONTROLS AND PROCEDURES**",
+            "index": 21700
+        },
+        {
+            "label": "item09b",
+            "page": 157,
+            "id": 21740,
+            "text": "**ITEM 9B. OTHER INFORMATION**",
+            "index": 21740
+        },
+        {
+            "label": "item09c",
+            "page": 157,
+            "id": 21760,
+            "text": "**ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS**",
+            "index": 21760
+        },
+        {
+            "label": "item10",
+            "page": 158,
+            "id": 21810,
+            "text": "**ITEMS 10, 11, 12 and 13. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE; EXECUTIVE**",
+            "index": 21810
+        },
+        {
+            "label": "item14",
+            "page": 159,
+            "id": 21970,
+            "text": "**ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES**",
+            "index": 21970
+        },
+        {
+            "label": "item15",
+            "page": 160,
+            "id": 22020,
+            "text": "**ITEM 15. EXHIBIT AND FINANCIAL STATEMENT SCHEDULES**",
+            "index": 22020
+        },
+        {
+            "label": "item16",
+            "page": 165,
+            "id": 22770,
+            "text": "**ITEM 16. FORM 10-K SUMMARY**",
+            "index": 22770
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "item": "item01",
+        "page": 2.0,
+        "text": "**Item 1. Business**"
+    },
+    {
+        "item": "item01a",
+        "page": 7.0,
+        "text": "**Item 1A. Risk Factors**"
+    },
+    {
+        "item": "item01b",
+        "page": 13.0,
+        "text": "**Item 1B. Unresolved Staff Comments**"
+    },
+    {
+        "item": "item02",
+        "page": 13.0,
+        "text": "**Item 2. Properties**"
+    },
+    {
+        "item": "item03",
+        "page": 14.0,
+        "text": "**Item 3. Legal Proceedings**"
+    },
+    {
+        "item": "item04",
+        "page": 14.0,
+        "text": "**Item 4. Mine Safety Disclosures.**"
+    },
+    {
+        "item": "item05",
+        "page": 15.0,
+        "text": "item 5. market for registrant\u2019s common equity,related stockholder matters and issuer purchases of equity securities"
+    },
+    {
+        "item": "item06",
+        "page": 17.0,
+        "text": "**Item 6. Selected Financial Data**"
+    },
+    {
+        "item": "item07",
+        "page": 18.0,
+        "text": "**Item 7. Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations**"
+    },
+    {
+        "item": "item07a",
+        "page": 53.0,
+        "text": "**Item 7A. Quantitative and Qualitative Disclosures about Market Risk**"
+    },
+    {
+        "item": "item08",
+        "page": 54.0,
+        "text": "**Item 8. Financial Statements and Supplementary Data**"
+    },
+    {
+        "item": "item09",
+        "page": 109.0,
+        "text": "**Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure**"
+    },
+    {
+        "item": "item09a",
+        "page": 109.0,
+        "text": "**Item 9A. Controls and Procedures**"
+    },
+    {
+        "item": "item09b",
+        "page": 109.0,
+        "text": "**Item 9B. Other Information**"
+    },
+    {
+        "item": "item10",
+        "page": 112.0,
+        "text": "**Item 10. Directors, Executive Officers and Corporate Governance**"
+    },
+    {
+        "item": "item11",
+        "page": 112.0,
+        "text": "**Item 11. Executive Compensation**"
+    },
+    {
+        "item": "item12",
+        "page": 112.0,
+        "text": "**Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters**"
+    },
+    {
+        "item": "item13",
+        "page": 112.0,
+        "text": "**Item 13. Certain Relationships and Related Transactions and Director Independence**"
+    },
+    {
+        "item": "item14",
+        "page": 112.0,
+        "text": "**Item 14. Principal Accountant Fees and Services**"
+    },
+    {
+        "item": "item15",
+        "page": 113.0,
+        "text": "**Item 15. Exhibits and Financial Statement Schedules**"
+    }
+]
